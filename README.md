@@ -14,3 +14,5 @@ https://tex.stackexchange.com/questions/502771/how-to-make-a-just-on-side-border
 https://tex.stackexchange.com/questions/431555/tcolorbox-with-title-on-the-left-side
 ![Image](https://i.stack.imgur.com/FQ4ZJ.png)
 
+https://melusine.eu.org/syracuse/pstricks/vectorian/
+![Image](https://melusine.eu.org/syracuse/pstricks/vectorian/vectorian68.png)
