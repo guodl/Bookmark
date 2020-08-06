@@ -21,3 +21,8 @@ https://melusine.eu.org/syracuse/pstricks/vectorian/
 
 (https://tex.stackexchange.com/questions/46406/package-for-certificates)
 ![Image](https://i.stack.imgur.com/lYpvh.png)
+
+
+* Mail-Merge Batch Generating Documents with datatool Package
+http://latex-my.blogspot.com/2012/01/mail-merge-batch-generating-documents.html
+![Image](http://3.bp.blogspot.com/-wKU4ntKA06g/TxkZ9Z3eqiI/AAAAAAAAJhk/8r_vj5EhRTo/s320/cert-wallpaper-2.png)
