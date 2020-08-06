@@ -16,3 +16,4 @@ https://tex.stackexchange.com/questions/431555/tcolorbox-with-title-on-the-left-
 
 https://melusine.eu.org/syracuse/pstricks/vectorian/
 ![Image](https://melusine.eu.org/syracuse/pstricks/vectorian/vectorian68.png)
+![Image](https://melusine.eu.org/syracuse/pstricks/vectorian/728-90.png)
