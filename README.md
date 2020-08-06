@@ -4,7 +4,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 https://tex.stackexchange.com/questions/248123/how-to-create-partial-borders-around-section-titles
 
-![Image] (https://i.stack.imgur.com/X4NHn.jpg)
+![Image](https://i.stack.imgur.com/X4NHn.jpg)
 
 https://tex.stackexchange.com/questions/502771/how-to-make-a-just-on-side-border
 
