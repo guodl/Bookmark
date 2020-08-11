@@ -26,3 +26,13 @@ https://melusine.eu.org/syracuse/pstricks/vectorian/
 * Mail-Merge Batch Generating Documents with datatool Package
 http://latex-my.blogspot.com/2012/01/mail-merge-batch-generating-documents.html
 ![Image](http://3.bp.blogspot.com/-wKU4ntKA06g/TxkZ9Z3eqiI/AAAAAAAAJhk/8r_vj5EhRTo/s320/cert-wallpaper-2.png)
+
+https://tex.stackexchange.com/questions/432504/graphing-areas-of-integration
+![Image](https://i.stack.imgur.com/ss039.png)
+
+https://tex.stackexchange.com/questions/257310/help-me-in-drawing-logx-curve
+![Image](https://i.stack.imgur.com/amOW1.png)
+
+
+https://tex.stackexchange.com/questions/444375/plot-a-function-of-logarithm-with-pgfplots
+![Image](https://i.stack.imgur.com/nGREK.png)
