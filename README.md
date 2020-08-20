@@ -61,3 +61,6 @@ https://tex.stackexchange.com/questions/168331/borders-around-page-using-pgforna
 https://tex.stackexchange.com/questions/451343/alternative-box-style-table-and-curve
 ![Image](https://i.stack.imgur.com/eZI6i.png)
 
+
+https://tex.stackexchange.com/questions/497877/how-to-reveal-tikz-plot-with-printanswers-in-exam-class
+![Image](https://i.stack.imgur.com/MsZ6I.gif)
