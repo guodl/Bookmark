@@ -33,6 +33,31 @@ https://tex.stackexchange.com/questions/432504/graphing-areas-of-integration
 https://tex.stackexchange.com/questions/257310/help-me-in-drawing-logx-curve
 ![Image](https://i.stack.imgur.com/amOW1.png)
 
+https://tex.stackexchange.com/questions/132553/box-table-surrounded-by-a-pattern-symbols
+![Image](https://i.stack.imgur.com/1uuOC.png)
+
+https://tex.stackexchange.com/questions/172475/how-can-i-define-a-custom-tcolorbox-environment-with-color-as-a-parameter
+！[Image](https://i.stack.imgur.com/S5saf.png)
+
+https://tex.stackexchange.com/questions/488035/help-to-reproduce-a-tcolorbox-with-a-decoration
+![Image](https://i.stack.imgur.com/q3OzN.png)
+
+
+https://tex.stackexchange.com/questions/32711/totally-sweet-horizontal-rules-in-latex
+![Image](https://i.stack.imgur.com/2gmXn.png)
+
+
+https://stackoverflow.com/questions/61079367/decorative-page-border-in-latex-and-tikz
+![Image](https://i.stack.imgur.com/sdbax.png)
 
 https://tex.stackexchange.com/questions/444375/plot-a-function-of-logarithm-with-pgfplots
 ![Image](https://i.stack.imgur.com/nGREK.png)
+
+
+https://tex.stackexchange.com/questions/168331/borders-around-page-using-pgfornament
+![Image](https://i.stack.imgur.com/Z47CX.png)
+
+
+https://tex.stackexchange.com/questions/451343/alternative-box-style-table-and-curve
+![Image](https://i.stack.imgur.com/eZI6i.png)
+
