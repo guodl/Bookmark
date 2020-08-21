@@ -129,3 +129,7 @@ Planner<br />
 
 https://tex.stackexchange.com/questions/496354/how-to-make-lower-part-of-tcolorbox-as-tall-as-the-title
 ![Image](https://i.stack.imgur.com/8vAmc.png)
+
+
+https://tex.stackexchange.com/questions/264619/embedding-examples-solutions-in-worksheets
+![Image](https://i.stack.imgur.com/Z856B.png)
