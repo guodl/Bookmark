@@ -125,3 +125,7 @@ https://tex.stackexchange.com/questions/285524/europass-resume-icons
 https://tex.stackexchange.com/questions/112343/beautiful-table-samples
 Planner<br />
 ![Image](https://i.stack.imgur.com/vSLlc.png)
+
+
+https://tex.stackexchange.com/questions/496354/how-to-make-lower-part-of-tcolorbox-as-tall-as-the-title
+![Image](https://i.stack.imgur.com/8vAmc.png)
