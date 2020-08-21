@@ -1,9 +1,20 @@
 # LatexCollection
 Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
+
+https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer
+![Image](https://i.stack.imgur.com/Z9R7X.png)
+
+https://tex.stackexchange.com/questions/49427/reproducing-an-analog-clock-similar-to-the-one-provided-by-the-ifsym-package
+![Image](https://i.stack.imgur.com/560ic.png)
+
+
+
 https://tex.stackexchange.com/questions/291888/creating-a-multi-line-colored-box-in-latex
 ![Image](https://i.stack.imgur.com/6vjMX.png)
 
+https://tex.stackexchange.com/questions/285524/europass-resume-icons
+![Image](https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson)
 
 https://tex.stackexchange.com/questions/493933/tcolor-box-dotted-box?rq=1
 ![Image](https://i.stack.imgur.com/S1HX8.png)
@@ -96,3 +107,9 @@ https://tex.stackexchange.com/questions/451343/alternative-box-style-table-and-c
 
 https://tex.stackexchange.com/questions/497877/how-to-reveal-tikz-plot-with-printanswers-in-exam-class
 ![Image](https://i.stack.imgur.com/MsZ6I.gif)
+
+https://tex.stackexchange.com/questions/16586/symbol-for-phone-number-in-resume/223105
+![Image](https://i.stack.imgur.com/uL58J.png)
+
+https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson
+![Image](https://i.stack.imgur.com/7aMEx.png)
