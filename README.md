@@ -10,8 +10,6 @@ https://tex.stackexchange.com/questions/49427/reproducing-an-analog-clock-simila
 
 
 
-https://tex.stackexchange.com/questions/291888/creating-a-multi-line-colored-box-in-latex
-![Image](https://i.stack.imgur.com/6vjMX.png)
 
 https://tex.stackexchange.com/questions/285524/europass-resume-icons
 ![Image](https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson)
@@ -107,6 +105,13 @@ https://tex.stackexchange.com/questions/451343/alternative-box-style-table-and-c
 
 https://tex.stackexchange.com/questions/497877/how-to-reveal-tikz-plot-with-printanswers-in-exam-class
 ![Image](https://i.stack.imgur.com/MsZ6I.gif)
+
+
+
+https://tex.stackexchange.com/questions/291888/creating-a-multi-line-colored-box-in-latex
+Phone Symbol <br />
+
+![Image](https://i.stack.imgur.com/6vjMX.png)
 
 https://tex.stackexchange.com/questions/16586/symbol-for-phone-number-in-resume/223105
 ![Image](https://i.stack.imgur.com/uL58J.png)
