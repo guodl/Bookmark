@@ -119,6 +119,14 @@ https://tex.stackexchange.com/questions/16586/symbol-for-phone-number-in-resume/
 https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson
 ![Image](https://i.stack.imgur.com/7aMEx.png)
 
+https://tex.stackexchange.com/questions/346286/a-nice-collection-of-exercises-for-students
+![Image](https://i.stack.imgur.com/NSwWX.png)
+
+https://tex.stackexchange.com/questions/377957/unwanted-vertical-space-with-enumitem-list-in-xsim-exercise-environment
+![Image](https://i.stack.imgur.com/vtRYx.png)
+https://tex.stackexchange.com/questions/108633/how-to-create-a-beautifully-aligned-solution-for-exercises
+![Image](https://i.stack.imgur.com/A1VRI.png)
+
 https://tex.stackexchange.com/questions/285524/europass-resume-icons
 ![Image](https://i.stack.imgur.com/TJJco.png)
 
@@ -133,3 +141,12 @@ https://tex.stackexchange.com/questions/496354/how-to-make-lower-part-of-tcolorb
 
 https://tex.stackexchange.com/questions/264619/embedding-examples-solutions-in-worksheets
 ![Image](https://i.stack.imgur.com/Z856B.png)
+
+
+https://tex.stackexchange.com/questions/483151/problem-with-counters-and-cleveref
+![Image](https://i.stack.imgur.com/FDyLV.png)
+
+
+
+https://tex.stackexchange.com/questions/273859/exercise-sheet-with-two-enumerated-columns
+![Image](https://i.stack.imgur.com/qsF8k.png)
