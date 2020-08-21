@@ -2,6 +2,10 @@
 Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 
+https://tex.stackexchange.com/questions/141176/is-there-a-way-to-get-the-skype-logo-in-the-cvtheme-document-class/141196#141196
+![Image](https://i.stack.imgur.com/1SmnF.png)
+
+
 https://tex.stackexchange.com/questions/248123/how-to-create-partial-borders-around-section-titles
 
 ![Image](https://i.stack.imgur.com/X4NHn.jpg)
