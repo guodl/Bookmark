@@ -1,7 +1,22 @@
 # LatexCollection
 Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
+https://tex.stackexchange.com/questions/291888/creating-a-multi-line-colored-box-in-latex
+![Image](https://i.stack.imgur.com/6vjMX.png)
 
+
+https://tex.stackexchange.com/questions/493933/tcolor-box-dotted-box?rq=1
+![Image](https://i.stack.imgur.com/S1HX8.png)
+
+https://tex.stackexchange.com/questions/12913/customizing-theorem-name
+![Image](https://i.stack.imgur.com/0H4Rb.png)
+
+
+https://tex.stackexchange.com/questions/401231/create-a-special-small-box-or-environment-for-highlighting-special-content-such
+![Image](https://i.stack.imgur.com/7kvGE.png)
+
+https://tex.stackexchange.com/questions/203836/preparing-true-false-questions-with-exam-class/203986
+![Image](https://i.stack.imgur.com/4XANB.png)
 
 https://tex.stackexchange.com/questions/329043/rectanglar-cloud-shaped-node-in-tikz
 ![Image](https://i.stack.imgur.com/iep46.png)
