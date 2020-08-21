@@ -2,6 +2,19 @@
 Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 
+
+https://tex.stackexchange.com/questions/329043/rectanglar-cloud-shaped-node-in-tikz
+![Image](https://i.stack.imgur.com/iep46.png)
+
+https://tex.stackexchange.com/questions/140312/tikz-shading-region-bounded-by-several-curves
+![Image](https://i.stack.imgur.com/zFQZ7.png)
+
+https://tex.stackexchange.com/questions/110598/trapezium-rule-for-integration-using-tikz
+![Image](https://i.stack.imgur.com/48p3A.png)
+
+https://tex.stackexchange.com/questions/147145/placement-of-ellipsis/147149#147149
+![Image](https://i.stack.imgur.com/JaLkj.png)
+
 https://tex.stackexchange.com/questions/141176/is-there-a-way-to-get-the-skype-logo-in-the-cvtheme-document-class/141196#141196
 ![Image](https://i.stack.imgur.com/1SmnF.png)
 
