@@ -118,3 +118,10 @@ https://tex.stackexchange.com/questions/16586/symbol-for-phone-number-in-resume/
 
 https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson
 ![Image](https://i.stack.imgur.com/7aMEx.png)
+
+https://tex.stackexchange.com/questions/285524/europass-resume-icons
+![Image](https://i.stack.imgur.com/TJJco.png)
+
+https://tex.stackexchange.com/questions/112343/beautiful-table-samples
+Planner<br />
+![Image](https://i.stack.imgur.com/vSLlc.png)
