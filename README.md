@@ -150,3 +150,14 @@ https://tex.stackexchange.com/questions/483151/problem-with-counters-and-clevere
 
 https://tex.stackexchange.com/questions/273859/exercise-sheet-with-two-enumerated-columns
 ![Image](https://i.stack.imgur.com/qsF8k.png)
+
+
+https://tex.stackexchange.com/questions/431142/attractive-chapter-titles-and-sections-styles
+![Image](https://i.stack.imgur.com/0ZzHg.jpg)
+
+
+https://tex.stackexchange.com/questions/254318/chapter-style-with-tcolorbox
+![Image](https://i.stack.imgur.com/DGRia.png)
+
+
+![Image]()
