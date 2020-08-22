@@ -287,3 +287,47 @@ https://tex.stackexchange.com/questions/81897/how-to-box-the-correct-answer-in-e
 
 https://tex.stackexchange.com/questions/133461/box-with-rounder-corners-but-inverted
 ![Image](https://i.stack.imgur.com/IRqtS.jpg)
+
+https://tex.stackexchange.com/questions/411369/environment-containing-fbox-not-working
+(Note)
+![Image](https://i.stack.imgur.com/uEnPe.png)
+
+
+
+
+https://doratex.hatenablog.jp/entry/20151106/1446779661
+![Image](http://cdn-ak.f.st-hatena.com/images/fotolife/d/doraTeX/20151106/20151106115633.png)
+
+
+https://tex.stackexchange.com/questions/74126/beamer-style-text-box
+(bclogo - Notice icon)
+![Image](https://i.stack.imgur.com/q7cDa.png)
+
+
+https://tex.stackexchange.com/questions/45912/box-around-a-few-items-in-an-itemize-environment
+![Image](https://i.stack.imgur.com/y9bzE.png)
+
+https://tex.stackexchange.com/questions/503617/box-with-bclogo
+
+Tcolorbox with icon
+![Image}(https://i.stack.imgur.com/lfTVF.png)
+
+
+https://tex.stackexchange.com/questions/483289/how-to-use-lstlisting-with-tcolorbox
+![Image](https://i.stack.imgur.com/hSKcY.png)
+
+https://tex.stackexchange.com/questions/145606/framed-box-over-framed-text-with-image
+![Image](https://i.stack.imgur.com/9aEIj.png)
+
+
+https://tex.stackexchange.com/questions/452202/help-to-create-these-environments-tcolorbox-or-tikz
+![Image](https://i.stack.imgur.com/Tl5mO.png)
+
+
+https://tex.stackexchange.com/questions/34754/best-way-to-create-colored-text-boxes
+![Image](https://i.stack.imgur.com/bHoJD.png)
+
+
+https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes
+![Image](https://i.stack.imgur.com/d95KR.png)
+![Image](https://i.stack.imgur.com/1YY4l.png)
