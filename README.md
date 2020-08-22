@@ -270,3 +270,7 @@ https://tex.stackexchange.com/questions/173057/stretching-an-fbox-horizontally-t
 
 https://tex.stackexchange.com/questions/358298/titled-box-or-sidebar-of-variable-width-for-additional-text
 ![Image](https://i.stack.imgur.com/VbpOT.png)
+
+
+https://tex.stackexchange.com/questions/496564/irregular-bounding-box-for-text-in-latex
+![Image](https://i.stack.imgur.com/SYnv7.png)
