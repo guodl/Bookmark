@@ -2,7 +2,7 @@
 Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 https://tex.stackexchange.com/questions/458864/how-to-add-a-small-rounded-rectangle-around-a-word-inline
-<img src="https://i.stack.imgur.com/6i0wj.png" width="48">
+<img src="https://i.stack.imgur.com/6i0wj.png" width="300">
 
 https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer
 ![Image](https://i.stack.imgur.com/Z9R7X.png =250x250)
