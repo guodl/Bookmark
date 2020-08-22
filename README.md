@@ -274,3 +274,16 @@ https://tex.stackexchange.com/questions/358298/titled-box-or-sidebar-of-variable
 
 https://tex.stackexchange.com/questions/496564/irregular-bounding-box-for-text-in-latex
 ![Image](https://i.stack.imgur.com/SYnv7.png)
+
+
+https://tex.stackexchange.com/questions/272105/box-with-shadow-on-right-hand-side-of-paragraph
+![Image](https://i.stack.imgur.com/I6X1X.png)
+
+
+https://tex.stackexchange.com/questions/81897/how-to-box-the-correct-answer-in-exam-class
+(How to box the correct answer in Exam class?)
+![Image](https://i.stack.imgur.com/QZ6AT.png)
+
+
+https://tex.stackexchange.com/questions/133461/box-with-rounder-corners-but-inverted
+![Image](https://i.stack.imgur.com/IRqtS.jpg)
