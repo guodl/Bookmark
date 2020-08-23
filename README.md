@@ -3,7 +3,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 |Graph/Diagram | Description | 
 |---------------| --------------------|    
-| <img src="https://i.stack.imgur.com/6i0wj.png" width="500"> | 
+| <img src="https://i.stack.imgur.com/6i0wj.png" width="500"> | http://www.github.com
        [Link](https://tex.stackexchange.com/questions/458864/how-to-add-a-small-rounded-rectangle-around-a-word-inline)  |
 
 | <img src="https://i.stack.imgur.com/Z9R7X.png" width=500>              |
