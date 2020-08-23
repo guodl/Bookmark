@@ -9,9 +9,12 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 
 
+| <img src="https://i.stack.imgur.com/7aMEx.png" width=400> | [fontawesome](https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson)<br />|
+| <img src="https://i.stack.imgur.com/TJJco.png" width=400> ||[fontawesome]https://tex.stackexchange.com/questions/285524/europass-resume-icons|
 
-https://tex.stackexchange.com/questions/285524/europass-resume-icons
-![Image](https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson)
+
+
+
 
 https://tex.stackexchange.com/questions/493933/tcolor-box-dotted-box?rq=1
 ![Image](https://i.stack.imgur.com/S1HX8.png)
