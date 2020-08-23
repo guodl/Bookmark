@@ -35,118 +35,49 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/Z47CX.png" width=400> |[Link](https://tex.stackexchange.com/questions/168331/borders-around-page-using-pgfornament)|
 | <img src="https://i.stack.imgur.com/eZI6i.png" width=400> |[Link](https://tex.stackexchange.com/questions/451343/alternative-box-style-table-and-curve)|
 | <img src="https://i.stack.imgur.com/MsZ6I.gif" width=400> |[Link](https://tex.stackexchange.com/questions/497877/how-to-reveal-tikz-plot-with-printanswers-in-exam-class)|
-| <img src="" width=400> |[Link]()|
-| <img src="" width=400> |[Link]()|
-| <img src="" width=400> |[Link]()|
-| <img src="" width=400> |[Link]()|
-| <img src="" width=400> |[Link]()|
+| <img src="https://i.stack.imgur.com/6vjMX.png" width=400> |[Phone Symbol](https://tex.stackexchange.com/questions/291888/creating-a-multi-line-colored-box-in-latex)|
+| <img src="https://i.stack.imgur.com/uL58J.png" width=400> |[Link](https://tex.stackexchange.com/questions/16586/symbol-for-phone-number-in-resume/223105)|
+| <img src="https://i.stack.imgur.com/7aMEx.png" width=400> |[Link](https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson)|
+| <img src="https://i.stack.imgur.com/NSwWX.png" width=400> |[Link](https://tex.stackexchange.com/questions/346286/a-nice-collection-of-exercises-for-students)|
+| <img src="https://i.stack.imgur.com/vtRYx.png" width=400> |[Link](https://tex.stackexchange.com/questions/377957/unwanted-vertical-space-with-enumitem-list-in-xsim-exercise-environment)|
+| <img src="https://i.stack.imgur.com/A1VRI.png" width=400> |[Link](https://tex.stackexchange.com/questions/108633/how-to-create-a-beautifully-aligned-solution-for-exercises)|
+| <img src="https://i.stack.imgur.com/TJJco.png" width=400> |[Link](https://tex.stackexchange.com/questions/285524/europass-resume-icons)|
+| <img src="https://i.stack.imgur.com/vSLlc.png" width=600> |[Weekly Planner](https://tex.stackexchange.com/questions/112343/beautiful-table-samples)|
+| <img src="https://i.stack.imgur.com/8vAmc.png" width=400> |[Link](https://tex.stackexchange.com/questions/496354/how-to-make-lower-part-of-tcolorbox-as-tall-as-the-title)|
+| <img src="https://i.stack.imgur.com/Z856B.png" width=400> |[Link](https://tex.stackexchange.com/questions/264619/embedding-examples-solutions-in-worksheets)|
+| <img src="https://i.stack.imgur.com/FDyLV.png" width=400> |[Link](https://tex.stackexchange.com/questions/483151/problem-with-counters-and-cleveref)|
+| <img src="https://i.stack.imgur.com/qsF8k.png" width=400> |[Link](https://tex.stackexchange.com/questions/273859/exercise-sheet-with-two-enumerated-columns)|
+| <img src="https://i.stack.imgur.com/0ZzHg.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/431142/attractive-chapter-titles-and-sections-styles)|
+| <img src="https://i.stack.imgur.com/DGRia.png" width=400> |[Link](https://tex.stackexchange.com/questions/254318/chapter-style-with-tcolorbox)|
+| <img src="https://i.stack.imgur.com/8jH4l.png" width=400> |[Link](https://tex.stackovernet.com/fr/q/103435)|
+| <img src="https://i.stack.imgur.com/3J5Gb.png" width=400> |[Link](https://tex.stackexchange.com/questions/414537/tcolorbox-background-color-of-subtitle)|
+| <img src="https://i.stack.imgur.com/PEJYF.png" width=400> |[Link](https://tex.stackexchange.com/questions/551346/reproducing-the-following-figure-using-tcolorbox-along-with-tikz)|
+| <img src="https://i.stack.imgur.com/2g7sz.png" width=400> |[Link](https://tex.stackexchange.com/questions/449735/putting-definitions-in-color-boxes)|
+| <img src="https://i.stack.imgur.com/SnP99.png" width=400> |[Tcolorbox - Raster](https://tex.stackexchange.com/questions/394352/tcolorbox-layer-and-height-in-raster)|
+| <img src="https://i.stack.imgur.com/xjfrz.png" width=400> |[Link](https://tex.stackexchange.com/questions/442535/including-custom-listings-style-in-lower-of-two-part-tcolorbox)|
+| <img src="https://i.stack.imgur.com/XogUa.png" width=400> |[Link](https://tex.stackexchange.com/questions/254468/tcolorbox-interior-titled-code-app-does-not-work)|
+| <img src="https://i.stack.imgur.com/qmRu5.png" width=400> |[Link](https://tex.stackexchange.com/questions/393151/environment-with-amsthm-and-tcolorbox-attach-boxed-title-to-top)|
+| <img src="https://i.stack.imgur.com/7u9cL.png" width=400> |[Link](https://tex.stackexchange.com/questions/371440/optional-arguments-in-the-newtcolorbox-macro)|
+| <img src="https://i.stack.imgur.com/mblBr.png" width=400> |[Link](https://tex.stackexchange.com/questions/8689/how-to-create-a-warning-box-like-this-see-the-figure-to-get-the-idea)|
+| <img src="https://i.stack.imgur.com/8MlHL.png" width=400> |[Link](https://tex.stackexchange.com/questions/296463/how-to-create-theorem-boxes/296467)|
+| <img src="https://i.stack.imgur.com/MSAqw.png" width=400> |[Link](https://tex.stackexchange.com/questions/254324/how-to-creat-color-boxes-as-the-picture)|
+| <img src="https://i.stack.imgur.com/m4sHf.png" width=400> |[Link](https://tex.stackexchange.com/questions/369430/theorems-and-definitions-boxes-numbering-should-be-chapter-wise)|
+| <img src="https://i.stack.imgur.com/6lDQ0.png" width=400> |[Link](https://tex.stackexchange.com/questions/289558/enumerate-in-tcolorbox-weird-insets)|
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
 
 <!----
-| <img src="" width=400> |[Link]()|
+| <img src="" width=400> |[Link]()
 -->
-https://tex.stackexchange.com/questions/291888/creating-a-multi-line-colored-box-in-latex
-Phone Symbol <br />
-
-![Image](https://i.stack.imgur.com/6vjMX.png)
-
-https://tex.stackexchange.com/questions/16586/symbol-for-phone-number-in-resume/223105
-![Image](https://i.stack.imgur.com/uL58J.png)
-
-https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson
-![Image](https://i.stack.imgur.com/7aMEx.png)
-
-https://tex.stackexchange.com/questions/346286/a-nice-collection-of-exercises-for-students
-![Image](https://i.stack.imgur.com/NSwWX.png)
-
-https://tex.stackexchange.com/questions/377957/unwanted-vertical-space-with-enumitem-list-in-xsim-exercise-environment
-![Image](https://i.stack.imgur.com/vtRYx.png)
-https://tex.stackexchange.com/questions/108633/how-to-create-a-beautifully-aligned-solution-for-exercises
-![Image](https://i.stack.imgur.com/A1VRI.png)
-
-https://tex.stackexchange.com/questions/285524/europass-resume-icons
-![Image](https://i.stack.imgur.com/TJJco.png)
-
-https://tex.stackexchange.com/questions/112343/beautiful-table-samples
-Planner<br />
-![Image](https://i.stack.imgur.com/vSLlc.png)
-
-
-https://tex.stackexchange.com/questions/496354/how-to-make-lower-part-of-tcolorbox-as-tall-as-the-title
-![Image](https://i.stack.imgur.com/8vAmc.png)
-
-
-https://tex.stackexchange.com/questions/264619/embedding-examples-solutions-in-worksheets
-![Image](https://i.stack.imgur.com/Z856B.png)
-
-
-https://tex.stackexchange.com/questions/483151/problem-with-counters-and-cleveref
-![Image](https://i.stack.imgur.com/FDyLV.png)
-
-
-
-https://tex.stackexchange.com/questions/273859/exercise-sheet-with-two-enumerated-columns
-![Image](https://i.stack.imgur.com/qsF8k.png)
-
-
-https://tex.stackexchange.com/questions/431142/attractive-chapter-titles-and-sections-styles
-![Image](https://i.stack.imgur.com/0ZzHg.jpg)
-
-
-https://tex.stackexchange.com/questions/254318/chapter-style-with-tcolorbox
-![Image](https://i.stack.imgur.com/DGRia.png)
-
-
-https://tex.stackovernet.com/fr/q/103435
-![Image](https://i.stack.imgur.com/8jH4l.png)
-
-
-https://tex.stackexchange.com/questions/414537/tcolorbox-background-color-of-subtitle
-![Image](https://i.stack.imgur.com/3J5Gb.png)
-
-
-https://tex.stackexchange.com/questions/551346/reproducing-the-following-figure-using-tcolorbox-along-with-tikz
-![Image](https://i.stack.imgur.com/PEJYF.png)
-
-
-https://tex.stackexchange.com/questions/449735/putting-definitions-in-color-boxes
-![Image](https://i.stack.imgur.com/2g7sz.png)
-
-https://tex.stackexchange.com/questions/394352/tcolorbox-layer-and-height-in-raster
-![Image](https://i.stack.imgur.com/SnP99.png)
-
-https://tex.stackexchange.com/questions/442535/including-custom-listings-style-in-lower-of-two-part-tcolorbox
-![Image](https://i.stack.imgur.com/xjfrz.png)
-
-
-https://tex.stackexchange.com/questions/254468/tcolorbox-interior-titled-code-app-does-not-work
-![Image](https://i.stack.imgur.com/XogUa.png)
-
-
-https://tex.stackexchange.com/questions/393151/environment-with-amsthm-and-tcolorbox-attach-boxed-title-to-top
-![Image](https://i.stack.imgur.com/qmRu5.png)
-
-https://tex.stackexchange.com/questions/371440/optional-arguments-in-the-newtcolorbox-macro
-![Image](https://i.stack.imgur.com/7u9cL.png)
-
-
-https://tex.stackexchange.com/questions/8689/how-to-create-a-warning-box-like-this-see-the-figure-to-get-the-idea
-![Image](https://i.stack.imgur.com/mblBr.png)
-
-
-https://tex.stackexchange.com/questions/296463/how-to-create-theorem-boxes/296467
-![Image](https://i.stack.imgur.com/8MlHL.png)
-
-https://tex.stackexchange.com/questions/254324/how-to-creat-color-boxes-as-the-picture
-![Image](https://i.stack.imgur.com/MSAqw.png)
-
-https://tex.stackexchange.com/questions/369430/theorems-and-definitions-boxes-numbering-should-be-chapter-wise
-![Image](https://i.stack.imgur.com/m4sHf.png)
-
-
-https://tex.stackexchange.com/questions/289558/enumerate-in-tcolorbox-weird-insets
-![Image](https://i.stack.imgur.com/6lDQ0.png)
-
-
 https://tex.stackexchange.com/questions/256791/customized-color-box
 ![Image](https://i.stack.imgur.com/6NQHY.jpg)
 
