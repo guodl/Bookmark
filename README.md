@@ -16,7 +16,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/zFQZ7.png" width=400> |[Link](https://tex.stackexchange.com/questions/140312/tikz-shading-region-bounded-by-several-curves)|
 | <img src="https://i.stack.imgur.com/48p3A.png" width=400> |[Link](https://tex.stackexchange.com/questions/110598/trapezium-rule-for-integration-using-tikz)|
 | <img src="https://i.stack.imgur.com/JaLkj.png" width=400> |[Link](https://tex.stackexchange.com/questions/147145/placement-of-ellipsis/147149#147149)|
-| <img src="https://i.stack.imgur.com/1SmnF.png" width=400> |[Link](https://tex.stackexchange.com/questions/141176/is-there-a-way-to-get-the-skype-logo-in-the-cvtheme-document-class/141196#141196)|
+| <img src="https://i.stack.imgur.com/1SmnF.png" width=200> |[Link](https://tex.stackexchange.com/questions/141176/is-there-a-way-to-get-the-skype-logo-in-the-cvtheme-document-class/141196#141196)|
 | <img src="https://i.stack.imgur.com/X4NHn.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/248123/how-to-create-partial-borders-around-section-titles)|
 | <img src="https://i.stack.imgur.com/0w6Ez.png" width=400> |[Link](https://tex.stackexchange.com/questions/502771/how-to-make-a-just-on-side-border)|
 | <img src="https://i.stack.imgur.com/FQ4ZJ.png" width=400> |[Link](https://tex.stackexchange.com/questions/431555/tcolorbox-with-title-on-the-left-side)|
@@ -75,6 +75,20 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/rKvUi.png" width=400> |[Book Definition](https://tex.stackexchange.com/questions/463586/customize-counter-using-tcolorbox)
 | <img src="https://i.stack.imgur.com/iYPde.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/241469/tcolorbox-leaves-faded-number-on-slides-in-beamer)
 | <img src="https://i.stack.imgur.com/A7TrW.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/272418/formatting-answer-boxes)
+| <img src="https://i.stack.imgur.com/vEPAj.png" width=400> |[Link](https://tex.stackexchange.com/questions/406478/draw-box-for-text)
+| <img src="https://i.stack.imgur.com/59qw1.png" width=400> |[Link](https://tex.stackexchange.com/questions/368551/how-do-i-create-the-following-box-with-texts-in-latex)
+| <img src="https://i.stack.imgur.com/GNaGL.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/269851/how-to-make-these-boxes/269866)
+| <img src="https://i.stack.imgur.com/t5Oj8.png" width=400> |[Link](https://tex.stackexchange.com/questions/173057/stretching-an-fbox-horizontally-to-fit-the-page)
+| <img src="https://i.stack.imgur.com/VbpOT.png" width=400> |[Link](https://tex.stackexchange.com/questions/358298/titled-box-or-sidebar-of-variable-width-for-additional-text)
+| <img src="https://i.stack.imgur.com/SYnv7.png" width=400> |[Link](https://tex.stackexchange.com/questions/496564/irregular-bounding-box-for-text-in-latex)
+| <img src="https://i.stack.imgur.com/I6X1X.png" width=400> |[Link](https://tex.stackexchange.com/questions/272105/box-with-shadow-on-right-hand-side-of-paragraph)
+| <img src="https://i.stack.imgur.com/QZ6AT.png" width=400> |[How to box the correct answer in Exam class?](https://tex.stackexchange.com/questions/81897/how-to-box-the-correct-answer-in-exam-class)
+| <img src="https://i.stack.imgur.com/IRqtS.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/133461/box-with-rounder-corners-but-inverted)
+| <img src="https://i.stack.imgur.com/uEnPe.png" width=400> |[Link](https://tex.stackexchange.com/questions/411369/environment-containing-fbox-not-working)
+| <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/d/doraTeX/20151106/20151106115633.png" width=400> |[Link](https://doratex.hatenablog.jp/entry/20151106/1446779661)
+| <img src="https://i.stack.imgur.com/q7cDa.png" width=400> |[bclogo - Notice icon](https://tex.stackexchange.com/questions/74126/beamer-style-text-box)
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
@@ -85,62 +99,17 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="" width=400> |[Link]()
 
 <!----
-| <img src="" width=400> |[Link]()
 -->
 
 
-https://tex.stackexchange.com/questions/406478/draw-box-for-text
-![Image](https://i.stack.imgur.com/vEPAj.png)
 
 
-https://tex.stackexchange.com/questions/368551/how-do-i-create-the-following-box-with-texts-in-latex
-![Image](https://i.stack.imgur.com/59qw1.png)
-
-
-https://tex.stackexchange.com/questions/269851/how-to-make-these-boxes/269866
-![Image](https://i.stack.imgur.com/GNaGL.jpg)
+![Image]()
 
 
 
-https://tex.stackexchange.com/questions/173057/stretching-an-fbox-horizontally-to-fit-the-page
-![Image](https://i.stack.imgur.com/t5Oj8.png)
-
-
-
-https://tex.stackexchange.com/questions/358298/titled-box-or-sidebar-of-variable-width-for-additional-text
-![Image](https://i.stack.imgur.com/VbpOT.png)
-
-
-https://tex.stackexchange.com/questions/496564/irregular-bounding-box-for-text-in-latex
-![Image](https://i.stack.imgur.com/SYnv7.png)
-
-
-https://tex.stackexchange.com/questions/272105/box-with-shadow-on-right-hand-side-of-paragraph
-![Image](https://i.stack.imgur.com/I6X1X.png)
-
-
-https://tex.stackexchange.com/questions/81897/how-to-box-the-correct-answer-in-exam-class
-(How to box the correct answer in Exam class?)
-![Image](https://i.stack.imgur.com/QZ6AT.png)
-
-
-https://tex.stackexchange.com/questions/133461/box-with-rounder-corners-but-inverted
-![Image](https://i.stack.imgur.com/IRqtS.jpg)
-
-https://tex.stackexchange.com/questions/411369/environment-containing-fbox-not-working
-(Note)
-![Image](https://i.stack.imgur.com/uEnPe.png)
-
-
-
-
-https://doratex.hatenablog.jp/entry/20151106/1446779661
-![Image](http://cdn-ak.f.st-hatena.com/images/fotolife/d/doraTeX/20151106/20151106115633.png)
-
-
-https://tex.stackexchange.com/questions/74126/beamer-style-text-box
-(bclogo - Notice icon)
-![Image](https://i.stack.imgur.com/q7cDa.png)
+()
+![Image]()
 
 
 https://tex.stackexchange.com/questions/45912/box-around-a-few-items-in-an-itemize-environment
