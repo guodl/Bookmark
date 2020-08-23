@@ -63,9 +63,18 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/MSAqw.png" width=400> |[Link](https://tex.stackexchange.com/questions/254324/how-to-creat-color-boxes-as-the-picture)|
 | <img src="https://i.stack.imgur.com/m4sHf.png" width=400> |[Link](https://tex.stackexchange.com/questions/369430/theorems-and-definitions-boxes-numbering-should-be-chapter-wise)|
 | <img src="https://i.stack.imgur.com/6lDQ0.png" width=400> |[Link](https://tex.stackexchange.com/questions/289558/enumerate-in-tcolorbox-weird-insets)|
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link](https://tex.stackexchange.com/questions/256791/customized-color-box
+)
+| <img src="https://i.stack.imgur.com/6NQHY.jpg" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/xR3HM.png" width=400> |[Link](https://tex.stackexchange.com/questions/200019/how-to-draw-the-following-box-using-tikz)
+| <img src="https://i.stack.imgur.com/ClcIc.png" width=400> |[Link](https://tex.stackexchange.com/questions/329636/how-to-share-counters-between-tcblistings)
+| <img src="https://i.stack.imgur.com/vbSwt.png" width=400> |[Link](https://tex.stackexchange.com/questions/269851/how-to-make-these-boxes/269866)
+| <img src="https://i.stack.imgur.com/6tmAG.png" width=400> |[Link](https://tex.stackexchange.com/questions/122848/tikz-the-pretty-boxes-to-frame-the-theorems-lemma-proposition-etc/164464)
+| <img src="https://i.stack.imgur.com/otuSA.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/284952/draw-a-box-with-tcolorbox)
+| <img src="https://i.stack.imgur.com/E9OSB.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/84646/create-a-two-column-static-small-box)
+| <img src="https://i.stack.imgur.com/rKvUi.png" width=400> |[Book Definition](https://tex.stackexchange.com/questions/463586/customize-counter-using-tcolorbox)
+| <img src="https://i.stack.imgur.com/iYPde.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/241469/tcolorbox-leaves-faded-number-on-slides-in-beamer)
+| <img src="https://i.stack.imgur.com/A7TrW.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/272418/formatting-answer-boxes)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
@@ -78,43 +87,6 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 <!----
 | <img src="" width=400> |[Link]()
 -->
-https://tex.stackexchange.com/questions/256791/customized-color-box
-![Image](https://i.stack.imgur.com/6NQHY.jpg)
-
-https://tex.stackexchange.com/questions/200019/how-to-draw-the-following-box-using-tikz
-![Image](https://i.stack.imgur.com/xR3HM.png)
-
-
-https://tex.stackexchange.com/questions/329636/how-to-share-counters-between-tcblistings
-![Image](https://i.stack.imgur.com/ClcIc.png)
-
-https://tex.stackexchange.com/questions/269851/how-to-make-these-boxes/269866
-![Image](https://i.stack.imgur.com/vbSwt.png)
-
-https://tex.stackexchange.com/questions/122848/tikz-the-pretty-boxes-to-frame-the-theorems-lemma-proposition-etc/164464
-![Image](https://i.stack.imgur.com/6tmAG.png)
-
-
-https://tex.stackexchange.com/questions/284952/draw-a-box-with-tcolorbox
-![Image](https://i.stack.imgur.com/otuSA.jpg)
-
-
-https://tex.stackexchange.com/questions/84646/create-a-two-column-static-small-box
-![Image](https://i.stack.imgur.com/E9OSB.jpg)
-
-
-https://tex.stackexchange.com/questions/463586/customize-counter-using-tcolorbox
-(Definition Reference)  
-![Image](https://i.stack.imgur.com/rKvUi.png)
-
-
-
-https://tex.stackexchange.com/questions/241469/tcolorbox-leaves-faded-number-on-slides-in-beamer
-![Image](https://i.stack.imgur.com/iYPde.jpg)
-
-
-https://tex.stackexchange.com/questions/272418/formatting-answer-boxes
-![Image](https://i.stack.imgur.com/A7TrW.jpg)
 
 
 https://tex.stackexchange.com/questions/406478/draw-box-for-text
