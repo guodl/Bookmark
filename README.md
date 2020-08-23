@@ -14,88 +14,36 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/4XANB.png" width=400> |[Link](https://tex.stackexchange.com/questions/203836/preparing-true-false-questions-with-exam-class/203986)|
 | <img src="https://i.stack.imgur.com/iep46.png" width=400> |[Link](https://tex.stackexchange.com/questions/329043/rectanglar-cloud-shaped-node-in-tikz)|
 | <img src="https://i.stack.imgur.com/zFQZ7.png" width=400> |[Link](https://tex.stackexchange.com/questions/140312/tikz-shading-region-bounded-by-several-curves)|
-
-<!----
-
+| <img src="https://i.stack.imgur.com/48p3A.png" width=400> |[Link](https://tex.stackexchange.com/questions/110598/trapezium-rule-for-integration-using-tikz)|
+| <img src="https://i.stack.imgur.com/JaLkj.png" width=400> |[Link](https://tex.stackexchange.com/questions/147145/placement-of-ellipsis/147149#147149)|
+| <img src="https://i.stack.imgur.com/1SmnF.png" width=400> |[Link](https://tex.stackexchange.com/questions/141176/is-there-a-way-to-get-the-skype-logo-in-the-cvtheme-document-class/141196#141196)|
+| <img src="https://i.stack.imgur.com/X4NHn.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/248123/how-to-create-partial-borders-around-section-titles)|
+| <img src="https://i.stack.imgur.com/0w6Ez.png" width=400> |[Link](https://tex.stackexchange.com/questions/502771/how-to-make-a-just-on-side-border)|
+| <img src="https://i.stack.imgur.com/FQ4ZJ.png" width=400> |[Link](https://tex.stackexchange.com/questions/431555/tcolorbox-with-title-on-the-left-side)|
+| <img src="https://melusine.eu.org/syracuse/pstricks/vectorian/vectorian68.png" width=400> <br />  |[Link](https://melusine.eu.org/syracuse/pstricks/vectorian/)|
+| <img src="https://melusine.eu.org/syracuse/pstricks/vectorian/728-90.png" width=400> |[Link](https://melusine.eu.org/syracuse/pstricks/vectorian/)|
+| <img src="https://i.stack.imgur.com/lYpvh.png" width=400> |[Link](https://tex.stackexchange.com/questions/46406/package-for-certificates)|
+| <img src="http://3.bp.blogspot.com/-wKU4ntKA06g/TxkZ9Z3eqiI/AAAAAAAAJhk/8r_vj5EhRTo/s320/cert-wallpaper-2.png" width=400> |[Link](http://latex-my.blogspot.com/2012/01/mail-merge-batch-generating-documents.html)|
+| <img src="https://i.stack.imgur.com/ss039.png" width=400> |[Link](https://tex.stackexchange.com/questions/432504/graphing-areas-of-integration)|
+| <img src="https://i.stack.imgur.com/amOW1.png" width=400> |[Link](https://tex.stackexchange.com/questions/257310/help-me-in-drawing-logx-curve)|
+| <img src="https://i.stack.imgur.com/1uuOC.png" width=400> |[Link](https://tex.stackexchange.com/questions/132553/box-table-surrounded-by-a-pattern-symbols)|
+| <img src="https://i.stack.imgur.com/S5saf.png" width=400> |[Link](https://tex.stackexchange.com/questions/172475/how-can-i-define-a-custom-tcolorbox-environment-with-color-as-a-parameter)|
+| <img src="https://i.stack.imgur.com/q3OzN.png" width=400> |[Link](https://tex.stackexchange.com/questions/488035/help-to-reproduce-a-tcolorbox-with-a-decoration)|
+| <img src="https://i.stack.imgur.com/2gmXn.png" width=400> |[Link](https://tex.stackexchange.com/questions/32711/totally-sweet-horizontal-rules-in-latex)|
+| <img src="https://i.stack.imgur.com/sdbax.png" width=400> |[Link](https://stackoverflow.com/questions/61079367/decorative-page-border-in-latex-and-tikz)|
+| <img src="https://i.stack.imgur.com/nGREK.png" width=400> |[Link](https://tex.stackexchange.com/questions/444375/plot-a-function-of-logarithm-with-pgfplots)|
+| <img src="https://i.stack.imgur.com/Z47CX.png" width=400> |[Link](https://tex.stackexchange.com/questions/168331/borders-around-page-using-pgfornament)|
+| <img src="https://i.stack.imgur.com/eZI6i.png" width=400> |[Link](https://tex.stackexchange.com/questions/451343/alternative-box-style-table-and-curve)|
+| <img src="https://i.stack.imgur.com/MsZ6I.gif" width=400> |[Link](https://tex.stackexchange.com/questions/497877/how-to-reveal-tikz-plot-with-printanswers-in-exam-class)|
+| <img src="" width=400> |[Link]()|
+| <img src="" width=400> |[Link]()|
+| <img src="" width=400> |[Link]()|
+| <img src="" width=400> |[Link]()|
 | <img src="" width=400> |[Link]()|
 
+<!----
+| <img src="" width=400> |[Link]()|
 -->
-
-https://tex.stackexchange.com/questions/110598/trapezium-rule-for-integration-using-tikz
-![Image](https://i.stack.imgur.com/48p3A.png)
-
-https://tex.stackexchange.com/questions/147145/placement-of-ellipsis/147149#147149
-![Image](https://i.stack.imgur.com/JaLkj.png)
-
-https://tex.stackexchange.com/questions/141176/is-there-a-way-to-get-the-skype-logo-in-the-cvtheme-document-class/141196#141196
-![Image](https://i.stack.imgur.com/1SmnF.png)
-
-
-https://tex.stackexchange.com/questions/248123/how-to-create-partial-borders-around-section-titles
-
-![Image](https://i.stack.imgur.com/X4NHn.jpg)
-
-https://tex.stackexchange.com/questions/502771/how-to-make-a-just-on-side-border
-
-![Image](https://i.stack.imgur.com/0w6Ez.png)
-
-
-https://tex.stackexchange.com/questions/431555/tcolorbox-with-title-on-the-left-side
-![Image](https://i.stack.imgur.com/FQ4ZJ.png)
-
-https://melusine.eu.org/syracuse/pstricks/vectorian/
-![Image](https://melusine.eu.org/syracuse/pstricks/vectorian/vectorian68.png)
-![Image](https://melusine.eu.org/syracuse/pstricks/vectorian/728-90.png)
-
-
-(https://tex.stackexchange.com/questions/46406/package-for-certificates)
-![Image](https://i.stack.imgur.com/lYpvh.png)
-
-
-* Mail-Merge Batch Generating Documents with datatool Package
-http://latex-my.blogspot.com/2012/01/mail-merge-batch-generating-documents.html
-![Image](http://3.bp.blogspot.com/-wKU4ntKA06g/TxkZ9Z3eqiI/AAAAAAAAJhk/8r_vj5EhRTo/s320/cert-wallpaper-2.png)
-
-https://tex.stackexchange.com/questions/432504/graphing-areas-of-integration
-![Image](https://i.stack.imgur.com/ss039.png)
-
-https://tex.stackexchange.com/questions/257310/help-me-in-drawing-logx-curve
-![Image](https://i.stack.imgur.com/amOW1.png)
-
-https://tex.stackexchange.com/questions/132553/box-table-surrounded-by-a-pattern-symbols
-![Image](https://i.stack.imgur.com/1uuOC.png)
-
-https://tex.stackexchange.com/questions/172475/how-can-i-define-a-custom-tcolorbox-environment-with-color-as-a-parameter
-！[Image](https://i.stack.imgur.com/S5saf.png)
-
-https://tex.stackexchange.com/questions/488035/help-to-reproduce-a-tcolorbox-with-a-decoration
-![Image](https://i.stack.imgur.com/q3OzN.png)
-
-
-https://tex.stackexchange.com/questions/32711/totally-sweet-horizontal-rules-in-latex
-![Image](https://i.stack.imgur.com/2gmXn.png)
-
-
-https://stackoverflow.com/questions/61079367/decorative-page-border-in-latex-and-tikz
-![Image](https://i.stack.imgur.com/sdbax.png)
-
-https://tex.stackexchange.com/questions/444375/plot-a-function-of-logarithm-with-pgfplots
-![Image](https://i.stack.imgur.com/nGREK.png)
-
-
-https://tex.stackexchange.com/questions/168331/borders-around-page-using-pgfornament
-![Image](https://i.stack.imgur.com/Z47CX.png)
-
-
-https://tex.stackexchange.com/questions/451343/alternative-box-style-table-and-curve
-![Image](https://i.stack.imgur.com/eZI6i.png)
-
-
-https://tex.stackexchange.com/questions/497877/how-to-reveal-tikz-plot-with-printanswers-in-exam-class
-![Image](https://i.stack.imgur.com/MsZ6I.gif)
-
-
-
 https://tex.stackexchange.com/questions/291888/creating-a-multi-line-colored-box-in-latex
 Phone Symbol <br />
 
