@@ -7,30 +7,19 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/Z9R7X.png" width=200>|[Tikz Node - New](https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer)| 
 | <img src="https://i.stack.imgur.com/560ic.png" width=400>|[Clock - 45 min](https://tex.stackexchange.com/questions/49427/reproducing-an-analog-clock-similar-to-the-one-provided-by-the-ifsym-package)|
 | <img src="https://i.stack.imgur.com/7aMEx.png" width=400> | [fontawesome](https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson)<br />|
-| <img src="https://i.stack.imgur.com/TJJco.png" width=400> ||[fontawesome]https://tex.stackexchange.com/questions/285524/europass-resume-icons|
+| <img src="https://i.stack.imgur.com/TJJco.png" width=400> |[fontawesome](https://tex.stackexchange.com/questions/285524/europass-resume-icons)|
+| <img src="https://i.stack.imgur.com/S1HX8.png" width=400> |[Link](https://tex.stackexchange.com/questions/493933/tcolor-box-dotted-box?rq=1)|
+| <img src="https://i.stack.imgur.com/0H4Rb.png" width=400> |[Link](https://tex.stackexchange.com/questions/12913/customizing-theorem-name)|
+| <img src="https://i.stack.imgur.com/7kvGE.png" width=400> |[Link](https://tex.stackexchange.com/questions/401231/create-a-special-small-box-or-environment-for-highlighting-special-content-such)|
+| <img src="https://i.stack.imgur.com/4XANB.png" width=400> |[Link](https://tex.stackexchange.com/questions/203836/preparing-true-false-questions-with-exam-class/203986)|
+| <img src="https://i.stack.imgur.com/iep46.png" width=400> |[Link](https://tex.stackexchange.com/questions/329043/rectanglar-cloud-shaped-node-in-tikz)|
+| <img src="https://i.stack.imgur.com/zFQZ7.png" width=400> |[Link](https://tex.stackexchange.com/questions/140312/tikz-shading-region-bounded-by-several-curves)|
 
+<!----
 
+| <img src="" width=400> |[Link]()|
 
-
-
-https://tex.stackexchange.com/questions/493933/tcolor-box-dotted-box?rq=1
-![Image](https://i.stack.imgur.com/S1HX8.png)
-
-https://tex.stackexchange.com/questions/12913/customizing-theorem-name
-![Image](https://i.stack.imgur.com/0H4Rb.png)
-
-
-https://tex.stackexchange.com/questions/401231/create-a-special-small-box-or-environment-for-highlighting-special-content-such
-![Image](https://i.stack.imgur.com/7kvGE.png)
-
-https://tex.stackexchange.com/questions/203836/preparing-true-false-questions-with-exam-class/203986
-![Image](https://i.stack.imgur.com/4XANB.png)
-
-https://tex.stackexchange.com/questions/329043/rectanglar-cloud-shaped-node-in-tikz
-![Image](https://i.stack.imgur.com/iep46.png)
-
-https://tex.stackexchange.com/questions/140312/tikz-shading-region-bounded-by-several-curves
-![Image](https://i.stack.imgur.com/zFQZ7.png)
+-->
 
 https://tex.stackexchange.com/questions/110598/trapezium-rule-for-integration-using-tikz
 ![Image](https://i.stack.imgur.com/48p3A.png)
