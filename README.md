@@ -4,8 +4,8 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 |Graph/Diagram | Description | 
 |---------------| --------------------|    
 | <img src="https://i.stack.imgur.com/6i0wj.png" width="500"> | [Link](https://tex.stackexchange.com/questions/458864/how-to-add-a-small-rounded-rectangle-around-a-word-inline) |
-| <img src="https://i.stack.imgur.com/Z9R7X.png" width=500>| [Link](https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer)| 
-| <img src="https://i.stack.imgur.com/560ic.png" width=500> | [Link](https://tex.stackexchange.com/questions/49427/reproducing-an-analog-clock-similar-to-the-one-provided-by-the-ifsym-package)| |
+| <img src="https://i.stack.imgur.com/Z9R7X.png" width=200>| [Link](https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer)| 
+| <img src="https://i.stack.imgur.com/560ic.png" width=200> | [Link](https://tex.stackexchange.com/questions/49427/reproducing-an-analog-clock-similar-to-the-one-provided-by-the-ifsym-package)| |
 
 
 
