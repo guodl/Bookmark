@@ -89,33 +89,14 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/q7cDa.png" width=400> |[bclogo - Notice icon](https://tex.stackexchange.com/questions/74126/beamer-style-text-box)
 | <img src="https://i.stack.imgur.com/y9bzE.png" width=400> |[Link](https://tex.stackexchange.com/questions/45912/box-around-a-few-items-in-an-itemize-environment)
 | <img src="https://i.stack.imgur.com/lfTVF.png" width=400> |[Tcolorbox with icon](https://tex.stackexchange.com/questions/503617/box-with-bclogo)
-| <img src="" width=400> |[Link](https://tex.stackexchange.com/questions/483289/how-to-use-lstlisting-with-tcolorbox)
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/hSKcY.png" width=400> |[Link](https://tex.stackexchange.com/questions/483289/how-to-use-lstlisting-with-tcolorbox)
+| <img src="https://i.stack.imgur.com/9aEIj.png" width=400> |[Link](https://tex.stackexchange.com/questions/145606/framed-box-over-framed-text-with-image)
+| <img src="https://i.stack.imgur.com/Tl5mO.png" width=400> |[Link](https://tex.stackexchange.com/questions/452202/help-to-create-these-environments-tcolorbox-or-tikz)
+| <img src="https://i.stack.imgur.com/bHoJD.png" width=400> |[Link](https://tex.stackexchange.com/questions/34754/best-way-to-create-colored-text-boxes)
+| <img src="https://i.stack.imgur.com/d95KR.png" width=400> |[Link](https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes)
+| <img src="https://i.stack.imgur.com/1YY4l.png" width=400> |[Link](https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes)
 
 <!----
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
 -->
-
-https://tex.stackexchange.com/questions/483289/how-to-use-lstlisting-with-tcolorbox
-![Image](https://i.stack.imgur.com/hSKcY.png)
-
-https://tex.stackexchange.com/questions/145606/framed-box-over-framed-text-with-image
-![Image](https://i.stack.imgur.com/9aEIj.png)
-
-
-https://tex.stackexchange.com/questions/452202/help-to-create-these-environments-tcolorbox-or-tikz
-![Image](https://i.stack.imgur.com/Tl5mO.png)
-
-
-https://tex.stackexchange.com/questions/34754/best-way-to-create-colored-text-boxes
-![Image](https://i.stack.imgur.com/bHoJD.png)
-
-
-https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes
-![Image](https://i.stack.imgur.com/d95KR.png)
-![Image](https://i.stack.imgur.com/1YY4l.png)
