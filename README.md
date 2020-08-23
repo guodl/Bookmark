@@ -87,9 +87,9 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/uEnPe.png" width=400> |[Link](https://tex.stackexchange.com/questions/411369/environment-containing-fbox-not-working)
 | <img src="http://cdn-ak.f.st-hatena.com/images/fotolife/d/doraTeX/20151106/20151106115633.png" width=400> |[Link](https://doratex.hatenablog.jp/entry/20151106/1446779661)
 | <img src="https://i.stack.imgur.com/q7cDa.png" width=400> |[bclogo - Notice icon](https://tex.stackexchange.com/questions/74126/beamer-style-text-box)
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/y9bzE.png" width=400> |[Link](https://tex.stackexchange.com/questions/45912/box-around-a-few-items-in-an-itemize-environment)
+| <img src="https://i.stack.imgur.com/lfTVF.png" width=400> |[Tcolorbox with icon](https://tex.stackexchange.com/questions/503617/box-with-bclogo)
+| <img src="" width=400> |[Link](https://tex.stackexchange.com/questions/483289/how-to-use-lstlisting-with-tcolorbox)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
@@ -100,26 +100,6 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 <!----
 -->
-
-
-
-
-![Image]()
-
-
-
-()
-![Image]()
-
-
-https://tex.stackexchange.com/questions/45912/box-around-a-few-items-in-an-itemize-environment
-![Image](https://i.stack.imgur.com/y9bzE.png)
-
-https://tex.stackexchange.com/questions/503617/box-with-bclogo
-
-Tcolorbox with icon
-![Image}(https://i.stack.imgur.com/lfTVF.png)
-
 
 https://tex.stackexchange.com/questions/483289/how-to-use-lstlisting-with-tcolorbox
 ![Image](https://i.stack.imgur.com/hSKcY.png)
