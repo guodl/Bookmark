@@ -93,8 +93,8 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/9aEIj.png" width=400> |[Link](https://tex.stackexchange.com/questions/145606/framed-box-over-framed-text-with-image)
 | <img src="https://i.stack.imgur.com/Tl5mO.png" width=400> |[Link](https://tex.stackexchange.com/questions/452202/help-to-create-these-environments-tcolorbox-or-tikz)
 | <img src="https://i.stack.imgur.com/bHoJD.png" width=400> |[Link](https://tex.stackexchange.com/questions/34754/best-way-to-create-colored-text-boxes)
-| <img src="https://i.stack.imgur.com/d95KR.png" width=400> |[Link](https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes)
-| <img src="https://i.stack.imgur.com/1YY4l.png" width=400> |[Link](https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes)
+| <img src="https://i.stack.imgur.com/d95KR.png" width=200> |[Link](https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes)
+| <img src="https://i.stack.imgur.com/1YY4l.png" width=200> |[Link](https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes)
 
 <!----
 | <img src="" width=400> |[Link]()
