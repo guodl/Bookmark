@@ -95,8 +95,18 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/bHoJD.png" width=400> |[Link](https://tex.stackexchange.com/questions/34754/best-way-to-create-colored-text-boxes)
 | <img src="https://i.stack.imgur.com/d95KR.png" width=200> |[Link](https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes)
 | <img src="https://i.stack.imgur.com/1YY4l.png" width=200> |[Link](https://tex.stackexchange.com/questions/179197/framed-or-colored-box-with-text-and-margin-notes)
+| <img src="https://i.stack.imgur.com/ZVagZ.png" width=400> |[present a vertical multiplication/addition - xlop](https://tex.stackexchange.com/questions/11702/how-to-present-a-vertical-multiplication-addition)
+| <img src="https://i.stack.imgur.com/tNP5M.png" width=300> |[Link](https://tex.stackexchange.com/questions/63732/cute-child-friendly-document-in-latex/63759#63759)
+| <img src="https://i.stack.imgur.com/gNBGZ.png" width=400> |[Link](https://tex.stackexchange.com/questions/322247/3-column-math-questions)
+| <img src="https://i.stack.imgur.com/dMxkn.png" width=400> |[Link](https://tex.stackexchange.com/questions/288084/latex-for-elementary-school-mathematics)
+| <img src="https://i.stack.imgur.com/yih48.png" width=400> |[Link](https://tex.stackexchange.com/questions/536092/tagging-an-equation-with-a-tikz-duck)
+| <img src="https://i.stack.imgur.com/XqqN2.png" width=400> |[Link]()
+| <img src="" width=400> |[Link](https://tex.stackexchange.com/questions/3703/make-equations-large)
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+
+
 
 <!----
-| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 -->
