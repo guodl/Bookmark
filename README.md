@@ -1,3 +1,13 @@
+# New Stuff
+
+## We add some new websites.
+
+|George| Grace / Georgia | 
+|---------------| --------------------|    
+| <img src="https://i.stack.imgur.com/6i0wj.png" width="500"> | [Arrow link between 2 lines](https://tex.stackexchange.com/questions/458864/how-to-add-a-small-rounded-rectangle-around-a-word-inline)|
+| <img src="https://i.stack.imgur.com/Z9R7X.png" width=200>|[Tikz Node - New](https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer)| 
+
+
 # Latex Graph Diagram Collection
 Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
