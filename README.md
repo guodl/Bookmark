@@ -5,6 +5,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 |Graph/Diagram | Description | 
 |---------------| --------------------|    
 | <img src="https://i.stack.imgur.com/6i0wj.png" width="500"> | [Arrow link between 2 lines](https://tex.stackexchange.com/questions/458864/how-to-add-a-small-rounded-rectangle-around-a-word-inline)|
+| <img src="https://i.stack.imgur.com/3Srgu.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/248889/package-for-framed-boxes)
 | <img src="https://i.stack.imgur.com/Z9R7X.png" width=200>|[Tikz Node - New](https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer)| 
 | <img src="https://i.stack.imgur.com/560ic.png" width=400>|[Clock - 45 min](https://tex.stackexchange.com/questions/49427/reproducing-an-analog-clock-similar-to-the-one-provided-by-the-ifsym-package)|
 | <img src="https://i.stack.imgur.com/7aMEx.png" width=400> | [fontawesome](https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson)<br />|
@@ -103,7 +104,6 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/yih48.png" width=400> |[Link](https://tex.stackexchange.com/questions/536092/tagging-an-equation-with-a-tikz-duck)
 | <img src="https://i.stack.imgur.com/XqqN2.png" width=400> |[Link](https://tex.stackexchange.com/questions/3703/make-equations-large)
 | <img src="https://i.stack.imgur.com/sef59.png" width=400> |[Link](https://tex.stackexchange.com/questions/505760/how-can-i-draw-lines-between-cells-from-two-different-tabulars-to-indicate-corre)
-| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 
 
