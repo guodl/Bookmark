@@ -135,7 +135,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/8MlHL.png" width=400> |[Link](https://tex.stackexchange.com/questions/296463/how-to-create-theorem-boxes/296467)
 | <img src="https://i.stack.imgur.com/6tmAG.png" width=400> |[Link](https://tex.stackexchange.com/questions/122848/tikz-the-pretty-boxes-to-frame-the-theorems-lemma-proposition-etc)
 | <img src="https://i.stack.imgur.com/9tBYM.png" width=400> |[Link](https://tex.stackexchange.com/questions/124847/typesetting-a-definition)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/gNxAs.png" width=400> |[Link](https://tex.stackexchange.com/questions/393195/double-column-document-with-tcolorbox-that-spans-both-columns?rq=1)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
