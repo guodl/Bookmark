@@ -136,6 +136,12 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/6tmAG.png" width=400> |[Link](https://tex.stackexchange.com/questions/122848/tikz-the-pretty-boxes-to-frame-the-theorems-lemma-proposition-etc)
 | <img src="https://i.stack.imgur.com/9tBYM.png" width=400> |[Link](https://tex.stackexchange.com/questions/124847/typesetting-a-definition)
 | <img src="https://i.stack.imgur.com/gNxAs.png" width=400> |[Link](https://tex.stackexchange.com/questions/393195/double-column-document-with-tcolorbox-that-spans-both-columns?rq=1)
+| <img src="https://i.stack.imgur.com/xvoxF.png" width=400> |[Link](https://tex.stackexchange.com/questions/232107/counter-outside-tcolorbox)
+| <img src="https://i.stack.imgur.com/eK42Z.png" width=400> |[Link](https://tex.stackexchange.com/questions/307263/how-to-design-a-box-like-this)
+| <img src="https://i.stack.imgur.com/VpB65.png" width=400> |[Link](https://tex.stackexchange.com/questions/474757/consecutive-numbering-and-labels-in-tcolorbox)
+| <img src="https://i.stack.imgur.com/Gf65F.png" width=400> |[Link](https://tex.stackexchange.com/questions/202356/redefine-beamers-blocks)
+| <img src="http://texwelt.de/wissen/upfiles/flparabast.png" width=400> |[Link](https://texwelt.de/fragen/3464/flache-unter-parabelast-einfarben)
+| <img src="https://texwelt.de/wissen/upfiles/Screen_Shot_2019-02-05_at_7.32.38_AM.png" width=400> |[Link](https://texwelt.de/fragen/24106/flache-einfarben-unter-und-uber-gerade)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
@@ -143,6 +149,8 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+
 
 
 <!----
