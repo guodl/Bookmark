@@ -143,14 +143,13 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="http://texwelt.de/wissen/upfiles/flparabast.png" width=400> |[Link](https://texwelt.de/fragen/3464/flache-unter-parabelast-einfarben)
 | <img src="https://texwelt.de/wissen/upfiles/Screen_Shot_2019-02-05_at_7.32.38_AM.png" width=400> |[Link](https://texwelt.de/fragen/24106/flache-einfarben-unter-und-uber-gerade)
 | <img src="https://i.stack.imgur.com/PnHrl.png" width=400> |[Link](https://tex.stackexchange.com/questions/523821/how-to-put-a-box-around-text-and-add-a-string)
-| <img src="https://i.stack.imgur.com/f5nPG.png" width=400> |[Link]()
 | <img src="https://i.stack.imgur.com/hSKcY.png" width=400> |[Link](https://tex.stackexchange.com/questions/483289/how-to-use-lstlisting-with-tcolorbox)
+| <img src="https://i.stack.imgur.com/BHMnF.png" width=400> |[Link](https://tex.stackexchange.com/questions/515912/how-to-draw-straight-line-touching-parabola-and-x-axis)
+| <img src="http://i.imgur.com/d8z2dK8.png" width=400> |[Link](http://lsfalimis.github.io/latex-notes/)
+| <img src="https://i.stack.imgur.com/LLKYq.png" width=400> |[Link](https://tex.stackexchange.com/questions/401225/how-to-draw-a-tangent-line-to-the-following-curve?rq=1)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-
+| <img src="https://i.stack.imgur.com/f5nPG.png" width=400> |[Link]()
 
 
 <!----
