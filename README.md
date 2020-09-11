@@ -125,8 +125,8 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/lyadF.png" width=400> |[Link](https://tex.stackexchange.com/questions/469057/tick-marks-in-geometry)
 | <img src="https://i.stack.imgur.com/ICE2c.png" width=400> |[Link](https://tex.stackexchange.com/questions/196680/how-can-i-draw-this-reservoir-diagram-with-tikz)
 | <img src="https://i.stack.imgur.com/QLJZs.png" width=400> |[Link](https://tex.stackexchange.com/questions/196680/how-can-i-draw-this-reservoir-diagram-with-tikz)
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/sZoQB.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/449735/putting-definitions-in-color-boxes)
+| <img src="https://i.stack.imgur.com/lfTVF.png" width=400> |[Link](https://tex.stackexchange.com/questions/503617/box-with-bclogo/503624#503624)
 | <img src="" width=400> |[Link]()
 
 
