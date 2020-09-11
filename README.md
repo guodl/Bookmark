@@ -121,7 +121,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/uHs9p.png" width=400> |[Link](https://tex.stackexchange.com/questions/213738/drawing-a-rectangle)
 | <img src="https://i.stack.imgur.com/YgNyH.png" width=400> |[Link](https://tex.stackexchange.com/questions/79411/how-can-i-get-the-ordinary-polynomial-long-division-by-using-polydiv-like-this)
 | <img src="http://i.imgur.com/hkPkI1K.png" width=400> |[Link](http://lsfalimis.github.io/latex-notes/)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/aOzQf.png" width=400> |[Link](https://tex.stackexchange.com/questions/462448/shading-the-region-bound-by-two-graphs)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
