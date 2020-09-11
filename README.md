@@ -106,7 +106,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/sef59.png" width=400> |[Link](https://tex.stackexchange.com/questions/505760/how-can-i-draw-lines-between-cells-from-two-different-tabulars-to-indicate-corre)
 | <img src="https://i.stack.imgur.com/lMCgd.png" width=400> |[Link](https://tex.stackexchange.com/questions/312199/i-need-a-tex-donkey)
 | <img src="https://i.stack.imgur.com/6lvzP.png" width=400> |[Link](https://tex.stackexchange.com/questions/281375/inspired-beautiful-box-from-indesign?rq=1)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/RI4DR.png" width=400> |[Link](https://tex.stackexchange.com/questions/170420/shaped-paragraph-with-centred-picture-shapepar-cutwin)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
