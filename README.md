@@ -124,7 +124,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/aOzQf.png" width=400> |[Link](https://tex.stackexchange.com/questions/462448/shading-the-region-bound-by-two-graphs)
 | <img src="https://i.stack.imgur.com/lyadF.png" width=400> |[Link](https://tex.stackexchange.com/questions/469057/tick-marks-in-geometry)
 | <img src="https://i.stack.imgur.com/ICE2c.png" width=400> |[Link](https://tex.stackexchange.com/questions/196680/how-can-i-draw-this-reservoir-diagram-with-tikz)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/QLJZs.png" width=400> |[Link](https://tex.stackexchange.com/questions/196680/how-can-i-draw-this-reservoir-diagram-with-tikz)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
