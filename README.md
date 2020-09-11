@@ -119,6 +119,14 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/gQOHM.png" width=400> |[Link](https://tex.stackexchange.com/questions/181082/how-to-reproduce-this-box-in-tcolorbox)
 | <img src="https://i.stack.imgur.com/L0zRp.png" width=400> |[Link](https://tex.stackexchange.com/questions/493401/how-to-apply-the-glow-effect-to-a-rectangle-with-tcolorbox)
 | <img src="https://i.stack.imgur.com/uHs9p.png" width=400> |[Link](https://tex.stackexchange.com/questions/213738/drawing-a-rectangle)
+| <img src="https://i.stack.imgur.com/YgNyH.png" width=400> |[Link](https://tex.stackexchange.com/questions/79411/how-can-i-get-the-ordinary-polynomial-long-division-by-using-polydiv-like-this)
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 
 
