@@ -115,7 +115,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/dExJI.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/273697/creating-color-boxes-and-tables)
 | <img src="https://i.stack.imgur.com/3Srgu.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/273697/creating-color-boxes-and-tables)
 | <img src="https://i.stack.imgur.com/g7hqW.png" width=400> |[Link](https://tex.stackexchange.com/questions/475772/how-to-set-slanting-shaded-box-and-also-hyphen-box-using-tcolorbox)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/c4ktH.png" width=400> |[Link](https://tex.stackexchange.com/questions/532872/tcolorbox-with-top-and-bottom-line-made-of-circles)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
