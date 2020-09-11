@@ -108,7 +108,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/6lvzP.png" width=400> |[Link](https://tex.stackexchange.com/questions/281375/inspired-beautiful-box-from-indesign?rq=1)
 | <img src="https://i.stack.imgur.com/RI4DR.png" width=400> |[Link](https://tex.stackexchange.com/questions/170420/shaped-paragraph-with-centred-picture-shapepar-cutwin)
 | <img src="https://i.stack.imgur.com/c4ktH.png" width=400> |[Link](https://tex.stackexchange.com/questions/532872/tcolorbox-with-top-and-bottom-line-made-of-circles)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/dhhUE.png" width=400> |[Link](https://tex.stackexchange.com/questions/18628/plots-in-tikz-dont-work)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
