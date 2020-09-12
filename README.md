@@ -168,7 +168,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/TvATW.png" width=400> |[Link](https://tex.stackexchange.com/questions/285255/drawing-half-a-parabola-using-pstricks-in-latex/285268)
 | <img src="https://i.stack.imgur.com/hdWD5.png" width=400> |[Link](https://tex.stackexchange.com/questions/79411/how-can-i-get-the-ordinary-polynomial-long-division-by-using-polydiv-like-this)
 | <img src="https://wenda.latexstudio.net/data/ueditor/php/upload/image/20200507/1588835006443761.png" width=400> |[Link](https://wenda.latexstudio.net/q-2130.html)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/CgW3w.png" width=400> |[Link](https://tex.stackexchange.com/questions/292658/vertically-centering-table-cell-texts)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
