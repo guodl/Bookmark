@@ -157,7 +157,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/kAw5g.png" width=400> |[Link](https://tex.stackexchange.com/questions/315091/tcolorbox-same-boxed-title-style-after-break?lq=1)
 | <img src="https://i.stack.imgur.com/LLHpN.png" width=400> |[Link](https://tex.stackexchange.com/questions/346297/loop-through-array-to-display-all-events-in-calendar)
 | <img src="https://i.stack.imgur.com/IHFD7.png" width=400> |[Link](https://tex.stackexchange.com/questions/34424/how-do-i-calculate-n-modulo-3-in-latex)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/hKXjE.png" width=400> |[Link](https://tex.stackexchange.com/questions/342505/tcolorbox-advanced-complex-template-with-arbitrary-number-of-arguments)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
