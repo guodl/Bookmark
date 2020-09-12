@@ -164,7 +164,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/nR2ef.png" width=400> |[Link](https://tex.stackexchange.com/questions/452333/filling-circular-segment-using-tkz-euclide)
 | <img src="https://i.stack.imgur.com/SrpUD.png" width=200> |[Link](https://tex.stackexchange.com/questions/175547/how-to-draw-a-dashed-line-and-length-with-tkz-euclide)
 | <img src="https://i.stack.imgur.com/0NX4T.png" width=400> |[Link](https://tex.stackexchange.com/questions/406382/awkward-vertical-space-in-tcolorbox-with-tikzpicture)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/66hOh.png" width=400> |[Link](https://tex.stackexchange.com/questions/4756/typesetting-of-negative-versus-minus/152323#152323)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
