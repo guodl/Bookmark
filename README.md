@@ -153,7 +153,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://oscimg.oschina.net/oscnet/4da776d871ff4f9bb038c3ed748a4d50c44.png" width=400> |[Link](https://my.oschina.net/u/4311024/blog/3643406/print)
 | <img src="https://my.oschina.net/u/4311024/blog/3643406/print" width=400> |[Continued Box Title](https://tex.stackexchange.com/questions/315091/tcolorbox-same-boxed-title-style-after-break?lq=1)
 | <img src="https://i.stack.imgur.com/VBgTX.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/315175/tcolorbox-with-a-dashed-frame-same-boxed-title-style-after-break)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/kAw5g.png" width=400> |[Link](https://tex.stackexchange.com/questions/315091/tcolorbox-same-boxed-title-style-after-break?lq=1)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
