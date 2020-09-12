@@ -159,7 +159,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/IHFD7.png" width=400> |[Link](https://tex.stackexchange.com/questions/34424/how-do-i-calculate-n-modulo-3-in-latex)
 | <img src="https://i.stack.imgur.com/hKXjE.png" width=400> |[Link](https://tex.stackexchange.com/questions/342505/tcolorbox-advanced-complex-template-with-arbitrary-number-of-arguments)
 | <img src="https://texample.net/media/tikz/examples/PNG/timetable.png" width=400> |[Timetable](https://texample.net/tikz/examples/timetable/)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/T1Qpr.png" width=400> |[Link](https://tex.stackexchange.com/questions/274231/how-do-i-display-quotient-modulus-in-latex/274250)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
