@@ -3,7 +3,8 @@
 Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 |Graph/Diagram | Description | 
-|---------------| --------------------|    
+|---------------| --------------------|   
+| <img src="https://i.stack.imgur.com/dVzT4.png" width="500"> | [Drawing annotated cuboids](https://tex.stackexchange.com/questions/12020/what-is-the-easiest-way-to-draw-a-3d-cube-with-tikz/12039#12039)|
 | <img src="https://i.stack.imgur.com/6i0wj.png" width="500"> | [Arrow link between 2 lines](https://tex.stackexchange.com/questions/458864/how-to-add-a-small-rounded-rectangle-around-a-word-inline)|
 | <img src="https://i.stack.imgur.com/3Srgu.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/248889/package-for-framed-boxes)
 | <img src="https://i.stack.imgur.com/Z9R7X.png" width=200>|[Tikz Node - New](https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer)| 
