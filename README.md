@@ -171,7 +171,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://wenda.latexstudio.net/data/ueditor/php/upload/image/20200507/1588835006443761.png" width=400> |[Link](https://wenda.latexstudio.net/q-2130.html)
 | <img src="https://i.stack.imgur.com/CgW3w.png" width=400> |[Link](https://tex.stackexchange.com/questions/292658/vertically-centering-table-cell-texts)
 | <img src="https://i.stack.imgur.com/PtY44.png" width=400> |[Link](https://tex.stackexchange.com/questions/451989/parallel-box-with-different-style-in-tcolorbox)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/d2UaS.png" width=400> |[Link](https://tex.stackexchange.com/questions/99085/what-is-the-easiest-way-to-plot-a-function-and-its-tangent-lines-at-the-turning)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
