@@ -172,7 +172,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/CgW3w.png" width=400> |[Link](https://tex.stackexchange.com/questions/292658/vertically-centering-table-cell-texts)
 | <img src="https://i.stack.imgur.com/PtY44.png" width=400> |[Link](https://tex.stackexchange.com/questions/451989/parallel-box-with-different-style-in-tcolorbox)
 | <img src="https://i.stack.imgur.com/d2UaS.png" width=400> |[Link](https://tex.stackexchange.com/questions/99085/what-is-the-easiest-way-to-plot-a-function-and-its-tangent-lines-at-the-turning)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/WgyRS.png" width=400> |[Link](https://tex.stackexchange.com/questions/269386/how-to-add-an-extra-tick-without-adding-a-new-line-to-the-grid)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
