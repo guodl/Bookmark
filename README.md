@@ -174,7 +174,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/d2UaS.png" width=400> |[Link](https://tex.stackexchange.com/questions/99085/what-is-the-easiest-way-to-plot-a-function-and-its-tangent-lines-at-the-turning)
 | <img src="https://i.stack.imgur.com/WgyRS.png" width=400> |[Link](https://tex.stackexchange.com/questions/269386/how-to-add-an-extra-tick-without-adding-a-new-line-to-the-grid)
 | <img src="https://i.stack.imgur.com/JZP4v.png" width=400> |[Link](https://tex.stackexchange.com/questions/45275/tikz-get-values-for-predefined-dash-patterns)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/LaQ3d.png" width=400> |[Link](https://tex.stackexchange.com/questions/389902/extra-solution-for-blank-in-xsim-necessary)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
