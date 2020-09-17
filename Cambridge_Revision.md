@@ -1,13 +1,22 @@
 # Physics
 
 
-## Radioactivity
-## Waves
+|Topics | Description | 
+|---------------| --------------------|   
+| Radioactivity  ||
+| Waves||
+
 
 # Biology
-## Proteinsynthesis
-## Immunity
+|Topics | Description | 
+|---------------| --------------------|   
+| Proteinsynthesis  ||
+| Immunity||
+
 
 # Chemistry
-## Redox
-## Relative Abunduncies
+|Topics | Description | 
+|---------------| --------------------|   
+| Redox  ||
+| Relative Abunduncies||
+
