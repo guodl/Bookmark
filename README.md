@@ -113,7 +113,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/i1mhX.png" width=400> |[Link](https://tex.stackexchange.com/questions/513648/inserting-text-and-an-image-into-the-header)
 | <img src="https://i.stack.imgur.com/UA54g.png" width=400> |[Link](https://tex.stackexchange.com/questions/40095/symbol-or-dingbat-of-a-calculator)
 | <img src="https://i.stack.imgur.com/MhKUj.png" width=400> |[Link](https://tex.stackexchange.com/questions/414375/exercise-box-with-title-and-example-number-in-marginpar)
-| <img src="https://i.stack.imgur.com/dExJI.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/273697/creating-color-boxes-and-tables)
+| <img src="https://i.stack.imgur.com/dExJI.jpg" width=400> |[Tcolorbox Example](https://tex.stackexchange.com/questions/273697/creating-color-boxes-and-tables)
 | <img src="https://i.stack.imgur.com/3Srgu.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/273697/creating-color-boxes-and-tables)
 | <img src="https://i.stack.imgur.com/g7hqW.png" width=400> |[Link](https://tex.stackexchange.com/questions/475772/how-to-set-slanting-shaded-box-and-also-hyphen-box-using-tcolorbox)
 | <img src="https://i.stack.imgur.com/c4ktH.png" width=400> |[Link](https://tex.stackexchange.com/questions/532872/tcolorbox-with-top-and-bottom-line-made-of-circles)
