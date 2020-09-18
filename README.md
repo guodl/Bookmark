@@ -176,7 +176,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/JZP4v.png" width=400> |[Link](https://tex.stackexchange.com/questions/45275/tikz-get-values-for-predefined-dash-patterns)
 | <img src="https://i.stack.imgur.com/LaQ3d.png" width=400> |[Link](https://tex.stackexchange.com/questions/389902/extra-solution-for-blank-in-xsim-necessary)
 | <img src="https://i.stack.imgur.com/vzz1J.png" width=400> |[Link](https://tex.stackexchange.com/questions/307432/tcolorbox-manual-tip-box-how-to-clone)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/iUZrH.png" width=400> |[Link](https://tex.stackexchange.com/questions/256236/how-to-draw-a-cube-completely-filled-with-water-the-other-with-water-by-half-an)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
