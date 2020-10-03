@@ -179,6 +179,11 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/iUZrH.png" width=400> |[Link](https://tex.stackexchange.com/questions/256236/how-to-draw-a-cube-completely-filled-with-water-the-other-with-water-by-half-an)
 | <img src="https://i.stack.imgur.com/bh7OK.png" width=400> |[Link](https://tex.stackexchange.com/questions/253007/marking-angles-in-a-parallelogram-congruent-using-tikz)
 | <img src="https://i.stack.imgur.com/3FPGs.png" width=400> |[Link](https://tex.stackexchange.com/questions/7141/how-to-draw-grids-of-geometric-shapes-with-tikz)
+| <img src="http://pics.latexstudio.net/wp-content/uploads/2017/02/dtkmbbx1.png" width=400> |[数学答题卡](https://www.latexstudio.net/archives/9513.html)
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="https://i.stack.imgur.com/f5nPG.png" width=400> |[Link]()
 
