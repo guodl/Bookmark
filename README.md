@@ -180,7 +180,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/bh7OK.png" width=400> |[Link](https://tex.stackexchange.com/questions/253007/marking-angles-in-a-parallelogram-congruent-using-tikz)
 | <img src="https://i.stack.imgur.com/3FPGs.png" width=400> |[Link](https://tex.stackexchange.com/questions/7141/how-to-draw-grids-of-geometric-shapes-with-tikz)
 | <img src="https://i.stack.imgur.com/xoPhR.png" width=400> |[Tikz Dotted](https://tex.stackexchange.com/questions/375596/dashed-signature)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/b9ilv.jpg" width=400> |[Fill in Blank](https://tex.stackexchange.com/questions/536954/macros-multiple-dotted-lines-with-answer-on-the-lines)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
