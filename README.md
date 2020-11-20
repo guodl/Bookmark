@@ -184,7 +184,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/noqT6.png" width=400> |[Link](https://tex.stackexchange.com/questions/132783/how-to-write-checkmark-in-latex)
 | <img src="https://i.stack.imgur.com/60I5I.png" width=400> |[Link](https://mylatexnotes.wordpress.com/2017/07/31/text-x-mark-to-match-checkmark/)
 | <img src="https://i.stack.imgur.com/3zUwn.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/186897/count-points-per-task)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/Ky8e9.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/280403/labelling-the-points-of-a-line-in-xy-plane)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
