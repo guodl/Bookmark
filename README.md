@@ -187,7 +187,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/Ky8e9.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/280403/labelling-the-points-of-a-line-in-xy-plane)
 | <img src="https://i.stack.imgur.com/0cJVS.png" width=400> |[Link](https://tex.stackexchange.com/questions/45806/tikzpicture-how-can-i-draw-a-loop-right-below)
 | <img src="http://funes.ytyoun.net/wp-content/uploads/2011/09/graph-300x70.png" width=400> |[Link](http://funes.ytyoun.net/?tag=automata)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/d3XSK.png" width=400> |[Link](https://tex.stackexchange.com/questions/57925/change-bend-angle-and-swap-node-position-on-arrow)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="https://i.stack.imgur.com/f5nPG.png" width=400> |[Link]()
