@@ -191,7 +191,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/ZJevx.png" width=400> |[Link](https://tex.stackexchange.com/questions/228724/how-do-i-make-tikz-make-a-curved-arrow-from-one-node-to-another-when-my-nodes-ar/228730)
 | <img src="https://getreuer.info/tutorials/tikz-for-high-quality-latex-pictures/tikz4.png" width=400> |[Link](https://getreuer.info/tutorials/tikz-for-high-quality-latex-pictures/index.html)
 | <img src="http://d.xav.free.fr/tikz/figure.png" width=400> |[Link](http://d.xav.free.fr/tikz/index.html)
-| <img src="" width=400> |[Link]()
+| <img src="http://www.statistiker-wg.de/pgf/pics/gauss2.png" width=400> |[Link](http://www.statistiker-wg.de/pgf/tutorials/plot.htm)
 | <img src="" width=400> |[Link]()
 
 | <img src="" width=400> |[Link]()
