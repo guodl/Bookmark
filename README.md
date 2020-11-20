@@ -192,7 +192,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://getreuer.info/tutorials/tikz-for-high-quality-latex-pictures/tikz4.png" width=400> |[Link](https://getreuer.info/tutorials/tikz-for-high-quality-latex-pictures/index.html)
 | <img src="http://d.xav.free.fr/tikz/figure.png" width=400> |[Link](http://d.xav.free.fr/tikz/index.html)
 | <img src="http://www.statistiker-wg.de/pgf/pics/gauss2.png" width=400> |[Link](http://www.statistiker-wg.de/pgf/tutorials/plot.htm)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/5dsHv.png" width=400> |[Link](https://tex.stackexchange.com/questions/44834/how-do-i-put-big-brackets-under-different-parts-of-an-equation-to-attach-text-la)
 
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
