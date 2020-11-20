@@ -188,6 +188,14 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/0cJVS.png" width=400> |[Link](https://tex.stackexchange.com/questions/45806/tikzpicture-how-can-i-draw-a-loop-right-below)
 | <img src="http://funes.ytyoun.net/wp-content/uploads/2011/09/graph-300x70.png" width=400> |[Link](http://funes.ytyoun.net/?tag=automata)
 | <img src="https://i.stack.imgur.com/d3XSK.png" width=400> |[Link](https://tex.stackexchange.com/questions/57925/change-bend-angle-and-swap-node-position-on-arrow)
+| <img src="https://i.stack.imgur.com/ZJevx.png" width=400> |[Link](https://tex.stackexchange.com/questions/228724/how-do-i-make-tikz-make-a-curved-arrow-from-one-node-to-another-when-my-nodes-ar/228730)
+| <img src="" width=400> |[Link]()
+
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+
+| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="https://i.stack.imgur.com/f5nPG.png" width=400> |[Link]()
