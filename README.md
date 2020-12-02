@@ -194,7 +194,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="http://www.statistiker-wg.de/pgf/pics/gauss2.png" width=400> |[Link](http://www.statistiker-wg.de/pgf/tutorials/plot.htm)
 | <img src="https://i.stack.imgur.com/5dsHv.png" width=400> |[Link](https://tex.stackexchange.com/questions/44834/how-do-i-put-big-brackets-under-different-parts-of-an-equation-to-attach-text-la)
 | <img src="https://i.stack.imgur.com/raK9Y.png" width=400> |[Link](https://tex.stackexchange.com/questions/202732/checkmark-with-cross)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/8BG5M.png" width=400> |[Link](https://tex.stackexchange.com/questions/50446/enumerated-list-with-blue-circles-and-number-inside-it)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
