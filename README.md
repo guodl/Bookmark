@@ -198,7 +198,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/2CuIO.png" width=400> |[Link](https://tex.stackexchange.com/questions/417620/how-to-print-solution-with-id-in-xsim)
 | <img src="https://i.stack.imgur.com/Gv8u0.png" width=400> |[Link](https://tex.stackexchange.com/questions/529034/multiple-choice-questions-with-proposed-answers-in-random-order-addition-of-au)
 | <img src="https://i.stack.imgur.com/yxYq2.png" width=400> |[Link](https://tex.stackexchange.com/questions/542079/create-alphabet-tracing-worksheet)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/ati49.png" width=400> |[Link](https://tex.stackexchange.com/questions/453429/create-a-handwriting-environment-for-both-text-and-math)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
