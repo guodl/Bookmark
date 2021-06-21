@@ -203,7 +203,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/zJWR6.png" width=400> |[Handwriting](https://tex.stackexchange.com/questions/453429/create-a-handwriting-environment-for-both-text-and-math)
 | <img src="https://www.brandt.id.au/handwritingscripts.jpg" width=400> |[Handwriting](https://www.brandt.id.au/post/diy-handwriting-worksheets-with-latex/)
 | <img src="https://i.stack.imgur.com/Zzf8T.png" width=400> |[Link](https://tex.stackexchange.com/questions/363866/place-two-groups-side-by-side)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/7z2Rz.png" width=400> |[Link](https://tex.stackexchange.com/questions/434055/hide-show-solution-for-problems)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
