@@ -209,7 +209,6 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/eV7bV.png" width=400> |[Link](https://tex.stackexchange.com/questions/48002/hand-written-fonts-in-latex-xetex-luatex)
 | <img src="https://i.stack.imgur.com/H024V.png" width=400> |[Link](http://www.stackprinter.com/export?service=tex.stackexchange&question=86150&printer=false&linktohome=true)
 | <img src="https://i.stack.imgur.com/uMxCW.png" width=400> |[Mini table of contents inside TikZ node on chapter start page](https://tex.stackexchange.com/questions/78835/mini-table-of-contents-inside-tikz-node-on-chapter-start-page)
-
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="https://i.stack.imgur.com/f5nPG.png" width=400> |[Link]()
