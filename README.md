@@ -7,6 +7,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/dVzT4.png" width="500"> | [Drawing annotated cuboids](https://tex.stackexchange.com/questions/12020/what-is-the-easiest-way-to-draw-a-3d-cube-with-tikz/12039#12039)|
 | <img src="https://i.stack.imgur.com/4vscl.png" width=400> |[Link](https://tex.stackexchange.com/questions/174536/drawing-solids-with-latex)
 | <img src="https://i.stack.imgur.com/6i0wj.png" width="500"> | [Arrow link between 2 lines](https://tex.stackexchange.com/questions/458864/how-to-add-a-small-rounded-rectangle-around-a-word-inline)|
+|<img src="https://i.stack.imgur.com/FBBx3.png" width="500"|[Rounded box around text](https://tex.stackexchange.com/questions/467833/adding-a-small-colored-rounded-box-around-inline-text)|
 | <img src="https://i.stack.imgur.com/3Srgu.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/248889/package-for-framed-boxes)
 | <img src="https://i.stack.imgur.com/Z9R7X.png" width=200>|[Tikz Node - New](https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer)| 
 | <img src="https://i.stack.imgur.com/560ic.png" width=400>|[Clock - 45 min](https://tex.stackexchange.com/questions/49427/reproducing-an-analog-clock-similar-to-the-one-provided-by-the-ifsym-package)|
