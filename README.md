@@ -211,7 +211,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/H024V.png" width=400> |[Link](http://www.stackprinter.com/export?service=tex.stackexchange&question=86150&printer=false&linktohome=true)
 | <img src="https://i.stack.imgur.com/uMxCW.png" width=400> |[Mini table of contents inside TikZ node on chapter start page](https://tex.stackexchange.com/questions/78835/mini-table-of-contents-inside-tikz-node-on-chapter-start-page)
 | <img src="https://i.stack.imgur.com/ViNLo.png" width=400> |[tcolorbox/makebox to take up the rest of page](https://tex.stackexchange.com/questions/201772/tcolorbox-makebox-to-take-up-the-rest-of-page)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/DNXHB.png" width=400> |[Number at Left side of box](https://tex.stackexchange.com/questions/377327/tcolorbox-with-bicolor-but-only-right-frame-outlined)
 | <img src="https://i.stack.imgur.com/f5nPG.png" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
