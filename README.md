@@ -216,11 +216,13 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/mObbs.png" width=400> |[How to enclosure a text block into big square brackets?](https://tex.stackexchange.com/questions/384367/how-to-enclosure-a-text-block-into-big-square-brackets)
 | <img src="https://i0.hdslb.com/bfs/article/301ff4a7d95671e41f4e10b586b22b28ef866241.png@942w_305h_progressive.webp" width=400> |[Annotated_Latex_Equations](https://github.com/synercys/annotated_latex_equations/blob/main/eqn_annotate.tex)
 | <img src="https://i0.hdslb.com/bfs/article/301ff4a7d95671e41f4e10b586b22b28ef866241.png@942w_305h_progressive.webp" width=400> |[【latex应用】数学公式中添加漂亮的注释](https://www.bilibili.com/read/cv14877427)
-| <img src="" width=400> |[Link]()
 | <img src="https://i.stack.imgur.com/GVFk0.png" width=400> <img src="https://i.stack.imgur.com/XjdB8.png" width=400> |[Annotated Box around Figures and Tables](https://tex.stackexchange.com/questions/315267/annotated-box-around-figures-and-tables)
 | <img src="https://i.stack.imgur.com/Jb9QT.png" width=400> |[how can i draw the figure below in latex](https://tex.stackexchange.com/questions/539733/how-can-i-draw-the-figure-below-in-latex)
 | <img src="https://i.stack.imgur.com/x1oAA.png" width=400> |[How can I improve those voltage annotations](https://tex.stackexchange.com/questions/111897/how-can-i-improve-those-voltage-annotations)
-
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="https://pics.latexstudio.net/uploads/20210917/614443e8ad8d8/latexc__images/1.png?imageView2/2/w/800/" width=400> |[TikZ 标注图片信息](https://www.latexstudio.net/index.php/index/details/index/mid/1959.html)
 <!----
 | <img src="" width=400> |[Link]()
 -->
