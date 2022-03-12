@@ -218,7 +218,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
+| <img src="https://i0.hdslb.com/bfs/article/301ff4a7d95671e41f4e10b586b22b28ef866241.png@942w_305h_progressive.webp" width=400> |[Annotated_Latex_Equations](https://github.com/synercys/annotated_latex_equations/blob/main/eqn_annotate.tex)
 | <img src="https://i0.hdslb.com/bfs/article/301ff4a7d95671e41f4e10b586b22b28ef866241.png@942w_305h_progressive.webp" width=400> |[【latex应用】数学公式中添加漂亮的注释](https://www.bilibili.com/read/cv14877427)
 
 
