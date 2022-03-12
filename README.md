@@ -220,9 +220,9 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/Jb9QT.png" width=400> |[how can i draw the figure below in latex](https://tex.stackexchange.com/questions/539733/how-can-i-draw-the-figure-below-in-latex)
 | <img src="https://i.stack.imgur.com/x1oAA.png" width=400> |[How can I improve those voltage annotations](https://tex.stackexchange.com/questions/111897/how-can-i-improve-those-voltage-annotations)
 | <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
 | <img src="https://pics.latexstudio.net/uploads/20211004/ff727d71f3a857b39fd74d797c658b7a.jpg?imageView2/2/w/800/" width=400> |[高中常用图像的TikZ实现合集](https://www.latexstudio.net/index.php/index/details/index/mid/2025.html)
 | <img src="https://pics.latexstudio.net/uploads/20210917/614443e8ad8d8/latexc__images/1.png?imageView2/2/w/800/" width=400> |[TikZ 标注图片信息](https://www.latexstudio.net/index.php/index/details/index/mid/1959.html)
+| <img src="https://pics.latexstudio.net/uploads/20210923/614c86eba7e26/latexc__images/1.png?imageView2/2/w/800/" width=400> |[图像标注宏包 --- tikz-imagelabels 译介](https://www.latexstudio.net/index.php/index/details/index/mid/1990.html)
 <!----
 | <img src="" width=400> |[Link]()
 -->
