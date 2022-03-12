@@ -218,7 +218,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i0.hdslb.com/bfs/article/301ff4a7d95671e41f4e10b586b22b28ef866241.png@942w_305h_progressive.webp" width=400> |[【latex应用】数学公式中添加漂亮的注释](https://www.bilibili.com/read/cv14877427)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/Jb9QT.png" width=400> |[how can i draw the figure below in latex](https://tex.stackexchange.com/questions/539733/how-can-i-draw-the-figure-below-in-latex)
 | <img src="https://i.stack.imgur.com/x1oAA.png" width=400> |[How can I improve those voltage annotations](https://tex.stackexchange.com/questions/111897/how-can-i-improve-those-voltage-annotations)
 
 <!----
