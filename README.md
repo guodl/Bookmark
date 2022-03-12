@@ -213,14 +213,13 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/ViNLo.png" width=400> |[tcolorbox/makebox to take up the rest of page](https://tex.stackexchange.com/questions/201772/tcolorbox-makebox-to-take-up-the-rest-of-page)
 | <img src="https://i.stack.imgur.com/DNXHB.png" width=400> |[Number at Left side of box](https://tex.stackexchange.com/questions/377327/tcolorbox-with-bicolor-but-only-right-frame-outlined)
 | <img src="https://i.stack.imgur.com/f5nPG.png" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/mObbs.png" width=400> |[How to enclosure a text block into big square brackets?](https://tex.stackexchange.com/questions/384367/how-to-enclosure-a-text-block-into-big-square-brackets)
 | <img src="https://i0.hdslb.com/bfs/article/301ff4a7d95671e41f4e10b586b22b28ef866241.png@942w_305h_progressive.webp" width=400> |[Annotated_Latex_Equations](https://github.com/synercys/annotated_latex_equations/blob/main/eqn_annotate.tex)
 | <img src="https://i0.hdslb.com/bfs/article/301ff4a7d95671e41f4e10b586b22b28ef866241.png@942w_305h_progressive.webp" width=400> |[【latex应用】数学公式中添加漂亮的注释](https://www.bilibili.com/read/cv14877427)
-
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
 
 <!----
 | <img src="" width=400> |[Link]()
