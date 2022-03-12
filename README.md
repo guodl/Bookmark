@@ -219,7 +219,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/x1oAA.png" width=400> |[How can I improve those voltage annotations](https://tex.stackexchange.com/questions/111897/how-can-i-improve-those-voltage-annotations)
 
 <!----
 | <img src="" width=400> |[Link]()
