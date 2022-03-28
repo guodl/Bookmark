@@ -228,7 +228,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://pics.latexstudio.net/uploads/20210923/614c86eba7e26/latexc__images/1.png?imageView2/2/w/800/" width=400> |[图像标注宏包 --- tikz-imagelabels 译介](https://www.latexstudio.net/index.php/index/details/index/mid/1990.html)
 | <img src="https://pics.latexstudio.net/uploads/20220305/df5d7ed2ea46e5a33a90c45ec2d4fa6f.png?imageView2/2/w/800/" width=400> |[LaTeX 排版 讲解麻将策略入门的书](https://www.latexstudio.net/index.php/index/details/index/mid/2467.html)
 | <img src="https://pics.latexstudio.net/uploads/20220305/df5d7ed2ea46e5a33a90c45ec2d4fa6f.png?imageView2/2/w/800/" width=400> |[LaTeX 排版 讲解麻将策略入门的书](https://github.com/dainachiba/RiichiBooks)
-| <img src="" width=400> |[Link]()
+| <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/f/f_d0123/20200621/20200621052542.png" width=400> |[Tcolorbox - Question/Soltion (in Japanese](https://marukunalufd0123.hatenablog.com/entry/2019/03/15/071717)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
