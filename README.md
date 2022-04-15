@@ -235,7 +235,16 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hkf-164/20151216/20151216145335.png" width=400> |[物理とTeXに関する話題](https://texmedicine.hatenadiary.jp/entry/2015/12/17/000339)| <img src="" width=400> |[Link]()
 | <img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F498769%2Fd231e558-82ec-d9a3-2b42-6a4c0e25c1c0.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&w=1400&fit=max&s=8fa6e8262c34b769a90a8e05a5430b22" width=400> |[LaTeXの定理環境に囲みを付けたい](https://qiita.com/rityo_masu/items/5ef248024b294d72799a)
 | <img src="https://c-tan.com/img/posts/screenshots/scrot_latex_template_JP_chap_5_2018-01-30.png" width=400> |[Snapshots of the first page of every chapter](https://c-tan.com/post/latex-template-2018/)
+| <img src="https://c-tan.com/img/posts/screenshots/scrot_latex_hanzi_pdf_2020-02-02.png" width=400> |[LATEX TYPESETTING CHINESE CHARACTER AND PINYIN BOX](https://c-tan.com/post/latex-hanzi-gezi/)
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 <!----
+| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 -->
