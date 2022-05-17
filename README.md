@@ -222,6 +222,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/Jb9QT.png" width=400> |[how can i draw the figure below in latex](https://tex.stackexchange.com/questions/539733/how-can-i-draw-the-figure-below-in-latex)
 | <img src="https://i.stack.imgur.com/x1oAA.png" width=400> |[How can I improve those voltage annotations](https://tex.stackexchange.com/questions/111897/how-can-i-improve-those-voltage-annotations)
 | <img src="https://i.stack.imgur.com/oVKtz.jpg" width=400> |[How to change font for the integral symbol](https://tex.stackexchange.com/questions/88281/how-to-change-font-for-the-integral-symbol)
+| <img src="https://i.stack.imgur.com/2cIy8.png" width=400> |[Box around single element in list](https://tex.stackexchange.com/questions/33443/box-around-single-element-in-list)
 | <img src="https://i.stack.imgur.com/N55yt.png" width=400> |[vertical alignment of tikzpicture in minipage with enumerate (overlay not working?)](https://tex.stackexchange.com/questions/406780/vertical-alignment-of-tikzpicture-in-minipage-with-enumerate-overlay-not-workin)
 | <img src="https://assets.st-note.com/production/uploads/images/43270152/picture_pc_db3ad650e962914d0c99ad0333e879de.png" width=400> |[TeX ソース：円周角の定理](https://note.com/btakeshi/n/n04e3efaf0566)
 | <img src="https://pics.latexstudio.net/uploads/20211004/ff727d71f3a857b39fd74d797c658b7a.jpg?imageView2/2/w/800/" width=400> |[高中常用图像的TikZ实现合集](https://www.latexstudio.net/index.php/index/details/index/mid/2025.html)
