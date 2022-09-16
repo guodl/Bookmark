@@ -242,7 +242,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://c-tan.com/img/posts/screenshots/scrot_latex_hanzi_pdf_2020-02-02.png" width=400> |[LATEX TYPESETTING CHINESE CHARACTER AND PINYIN BOX](https://c-tan.com/post/latex-hanzi-gezi/)
 | <img src="https://i.stack.imgur.com/Z8MYy.png" width=400> |[Link]()
 | <img src="" width=400> |Draw cosine and sine function with periods 1?](https://tex.stackexchange.com/questions/211662/draw-cosine-and-sine-function-with-periods-1)
-| <img src="" width=400> |[Link]()
+| <img src="https://pics.latexstudio.net/uploads/20210324/c7cb9e72707f7b40217027ccc1a87779.png" width=400> |[如何用tcolorbox实现复杂样式](https://ask.latexstudio.net/ask/question/291.html)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
