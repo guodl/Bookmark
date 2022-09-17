@@ -246,7 +246,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hohei3108/20220205/20220205113758.png" width=400> <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hohei3108/20220205/20220205113554.png" width=400>|[hohei’s diary-tcolorboxで作るフレームの紹介](https://hohei3108.hatenablog.com/entry/2022/02/05/120055)
 | <img src="https://pics.latexstudio.net/uploads/20210226/6038831fbefb3/latexc__images/2.png" width=400> |[一本教材书的tcolorbox排版设计](https://www.latexstudio.net/index.php/index/details/index/mid/1269.html)
 | <img src="https://i.stack.imgur.com/pggG3.png" width=400> |[How can create marking exam with tcolorbox](https://tex.stackexchange.com/questions/544696/how-can-create-marking-exam-with-tcolorbox)
-| <img src="" width=400> |[Link]()
+| <img src="https://pics.latexstudio.net/uploads/20220301/621ded9d891d7/latexc__images/1.png" width=400> |[tcolorbox 使用样例](https://www.latexstudio.net/index.php/index/details/index/mid/2452.html)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
