@@ -11,7 +11,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://tikz.net/files/complex-001.png" width=400> |[Complex plane & oscillator](https://tikz.net/complex/)
 | <img src="https://i.imgur.com/aZ2bPU2.png" width=400> |[Drawing a triangle on a cartesian plane with latex](https://sevragorgia.github.io/Research/gist/latex/GistTest/)
 | <img src="https://i.stack.imgur.com/QsYHj.png" width=400> |[Exam-How to create an optional argument like the 'correctchoice` command in exam document class?](https://tex.stackexchange.com/questions/99549/how-to-create-an-optional-argument-like-the-correctchoice-command-in-exam-docu)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/YxpRp.jpg" width=400> |[Tasks Package Framed Label](https://tex.stackexchange.com/questions/418891/tasks-package-framed-label/418893)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
