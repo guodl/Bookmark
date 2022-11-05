@@ -247,6 +247,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://pics.latexstudio.net/uploads/20210226/6038831fbefb3/latexc__images/2.png" width=400> |[一本教材书的tcolorbox排版设计](https://www.latexstudio.net/index.php/index/details/index/mid/1269.html)
 | <img src="https://i.stack.imgur.com/pggG3.png" width=400> |[How can create marking exam with tcolorbox](https://tex.stackexchange.com/questions/544696/how-can-create-marking-exam-with-tcolorbox)
 | <img src="https://pics.latexstudio.net/uploads/20220301/621ded9d891d7/latexc__images/1.png" width=400> |[tcolorbox 使用样例](https://www.latexstudio.net/index.php/index/details/index/mid/2452.html)
+| <img src="https://i.stack.imgur.com/s0pIr.png" width=400> |[https://tex.stackexchange.com/questions/261297/how-to-highlight-an-item-label](https://tex.stackexchange.com/questions/261297/how-to-highlight-an-item-label)
 | <img src="https://i.stack.imgur.com/OH4lh.png" width=400> |[Link]()
 | <img src="" width=400> |[Corners for theorems and definitions [duplicate]](https://tex.stackexchange.com/questions/496882/corners-for-theorems-and-definitions)
 | <img src="" width=400> |[Link]()
@@ -260,7 +261,6 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 <!----
-| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 -->
