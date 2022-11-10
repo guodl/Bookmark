@@ -256,7 +256,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://tikz.net/wp-content/uploads/2022/03/quadrilaterals-007.png" width=400> |[Quadrilateral hierarchy](https://tikz.net/quadrilaterals/)
 | <img src="https://texample.net/media/tikz/examples/PNG/pythagoras-triangle.png" width=400> |[Example: Pythagorean triangle with the squares of its sides and labels](https://texample.net/tikz/examples/pythagoras-triangle/)
 | <img src="https://mathtuition88.files.wordpress.com/2019/10/latexflowchart.png" width=400> |[LaTeX Horizontal Flowchart (Workflow)](https://mathtuition88.com/2019/10/31/latex-horizontal-flowchart-workflow/)
-| <img src="" width=400> |[Link]()
+| <img src="https://www.sqlpac.com/en/documents/images/latex-trigonometric-functions-x-axis-labels-multiple-of-pi-01.png" width=400> |[Latex, pgfplots - x axis labels and multiples of pi for trigonometric functions](https://www.sqlpac.com/en/documents/latex-trigonometric-functions-x-axis-labels-multiple-of-pi.html)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 <!----
