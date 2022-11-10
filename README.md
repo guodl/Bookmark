@@ -252,7 +252,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://static.javatpoint.com/tutorial/latex/images/latex-graph-of-equations-using-tikz5.png" width=400> |[Latex graph of equations using Tikz](https://www.javatpoint.com/latex-graph-of-equations-using-tikz)
 | <img src="https://chrisphan.com/tikz_2019-05_img/example2.png" width=400> |[plotting functions that go through certain points](https://chrisphan.com/posts/2019-05-13-plotting_with_tikz_3/)
 | <img src="https://texample.net/media/tikz/examples/PNG/borrowers-and-lenders.png" width=400> |[Example: Borrowers and lenders](https://texample.net/tikz/examples/borrowers-and-lenders/)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/DZcok.png" width=400> |[How to draw arrows between parts of an equation to show the Math Distributive Property (Multiplication)?](https://tex.stackexchange.com/questions/35717/how-to-draw-arrows-between-parts-of-an-equation-to-show-the-math-distributive-pr)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
