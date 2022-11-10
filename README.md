@@ -250,7 +250,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/2cIy8.png" width=400> |[Box around single element in list](https://tex.stackexchange.com/questions/33443/box-around-single-element-in-list)
 | <img src="https://i.stack.imgur.com/OH4lh.png" width=400> |[Link]()
 | <img src="" width=400> |[Corners for theorems and definitions [duplicate]](https://tex.stackexchange.com/questions/496882/corners-for-theorems-and-definitions)
-| <img src="" width=400> |[Link]()
+| <img src="https://static.javatpoint.com/tutorial/latex/images/latex-graph-of-equations-using-tikz5.png" width=400> |[Latex graph of equations using Tikz](https://www.javatpoint.com/latex-graph-of-equations-using-tikz)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
