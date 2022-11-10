@@ -254,7 +254,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://texample.net/media/tikz/examples/PNG/borrowers-and-lenders.png" width=400> |[Example: Borrowers and lenders](https://texample.net/tikz/examples/borrowers-and-lenders/)
 | <img src="https://i.stack.imgur.com/DZcok.png" width=400> |[How to draw arrows between parts of an equation to show the Math Distributive Property (Multiplication)?](https://tex.stackexchange.com/questions/35717/how-to-draw-arrows-between-parts-of-an-equation-to-show-the-math-distributive-pr)
 | <img src="https://tikz.net/wp-content/uploads/2022/03/quadrilaterals-007.png" width=400> |[Quadrilateral hierarchy](https://tikz.net/quadrilaterals/)
-| <img src="" width=400> |[Link]()
+| <img src="https://texample.net/media/tikz/examples/PNG/pythagoras-triangle.png" width=400> |[Example: Pythagorean triangle with the squares of its sides and labels](https://texample.net/tikz/examples/pythagoras-triangle/)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
