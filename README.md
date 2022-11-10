@@ -251,7 +251,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/OH4lh.png" width=400> |[Corners for theorems and definitions](https://tex.stackexchange.com/questions/496882/corners-for-theorems-and-definitions)
 | <img src="https://static.javatpoint.com/tutorial/latex/images/latex-graph-of-equations-using-tikz5.png" width=400> |[Latex graph of equations using Tikz](https://www.javatpoint.com/latex-graph-of-equations-using-tikz)
 | <img src="https://chrisphan.com/tikz_2019-05_img/example2.png" width=400> |[plotting functions that go through certain points](https://chrisphan.com/posts/2019-05-13-plotting_with_tikz_3/)
-| <img src="" width=400> |[Link]()
+| <img src="https://texample.net/media/tikz/examples/PNG/borrowers-and-lenders.png" width=400> |[Example: Borrowers and lenders](https://texample.net/tikz/examples/borrowers-and-lenders/)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
