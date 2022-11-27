@@ -259,7 +259,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://www.sqlpac.com/en/documents/images/latex-trigonometric-functions-x-axis-labels-multiple-of-pi-01.png" width=400> |[Latex, pgfplots - x axis labels and multiples of pi for trigonometric functions](https://www.sqlpac.com/en/documents/latex-trigonometric-functions-x-axis-labels-multiple-of-pi.html)
 | <img src="https://www.mathworksheets4kids.com/area/area-large.png" width=400> |[Making geometry worksheets in LaTeX?](https://tex.stackexchange.com/questions/254738/making-geometry-worksheets-in-latex)
 | <img src="https://i.stack.imgur.com/VGw2N.png" width=400> |[Rectangle on Fancy Footer](https://tex.stackexchange.com/questions/388790/rectangle-on-fancy-footer)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/0HuSd.jpg" width=400> |[Table inside Header](https://tex.stackexchange.com/questions/284825/table-inside-header)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
