@@ -106,7 +106,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/ZVagZ.png" width=150> |[present a vertical multiplication/addition - xlop](https://tex.stackexchange.com/questions/11702/how-to-present-a-vertical-multiplication-addition)
 | <img src="https://i.stack.imgur.com/tNP5M.png" width=300> |[Link](https://tex.stackexchange.com/questions/63732/cute-child-friendly-document-in-latex/63759#63759)
 | <img src="https://i.stack.imgur.com/gNBGZ.png" width=200> |[Link](https://tex.stackexchange.com/questions/322247/3-column-math-questions)
-| <img src="https://i.stack.imgur.com/dMxkn.png" width=400> |[Link](https://tex.stackexchange.com/questions/288084/latex-for-elementary-school-mathematics)
+| <img src="https://i.stack.imgur.com/dMxkn.png" width=200> |[Link](https://tex.stackexchange.com/questions/288084/latex-for-elementary-school-mathematics)
 | <img src="https://i.stack.imgur.com/yih48.png" width=400> |[Link](https://tex.stackexchange.com/questions/536092/tagging-an-equation-with-a-tikz-duck)
 | <img src="https://i.stack.imgur.com/XqqN2.png" width=400> |[Link](https://tex.stackexchange.com/questions/3703/make-equations-large)
 | <img src="https://i.stack.imgur.com/sef59.png" width=400> |[Link](https://tex.stackexchange.com/questions/505760/how-can-i-draw-lines-between-cells-from-two-different-tabulars-to-indicate-corre)
