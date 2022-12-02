@@ -5,8 +5,8 @@
 
 |Graph/Diagram | Description | 
 |---------------| --------------------|
+| <img src="" width=400> |[How can I obtain total number of points?](https://tex.stackexchange.com/questions/142676/how-can-i-obtain-total-number-of-points)
 | <img src="" width=400> |[Total number of points](https://tex.stackexchange.com/questions/347469/total-number-of-points)
-| <img src="" width=400> |[Link]()
 <!----
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
