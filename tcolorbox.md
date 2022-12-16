@@ -7,7 +7,7 @@ Collection of tcolorbox.
 |Graph/Diagram | Description | 
 |---------------| --------------------|
 | <img src="https://i.stack.imgur.com/WGkNE.png" width=400> |[How to create Multilevel Colored Boxes using tcolorbox/any other package?](https://tex.stackexchange.com/questions/68010/how-to-create-multilevel-colored-boxes-using-tcolorbox-any-other-package)
-| <img src="" width=400> |[Link]()
+| <img src="https://github.com/TBlauwe/card/raw/master/preview_1.png" width=400> |[Small latex package to write colored box with icons (using tcolorbox and fontawesome)](https://github.com/TBlauwe/card/blob/master/readme.md)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
