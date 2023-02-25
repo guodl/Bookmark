@@ -265,7 +265,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://user-images.githubusercontent.com/18437156/212471164-2de7552d-fc53-4c1e-8a60-6b8e72318a6a.png" width=400> |[Framed box, over framed text with image](https://tex.stackexchange.com/questions/145606/framed-box-over-framed-text-with-image)
 | <img src="https://i0.wp.com/i.stack.imgur.com/2ojMt.png?resize=1400%2C9999&ssl=1&zoom=2" width=400> |[tcolorbox | Align left column on top](https://mylatexnotes.wordpress.com/2017/08/03/tcolorbox-align-left-column-on-top/)
 | <img src="https://i.stack.imgur.com/zaGCb.png" width=400> |[Underlining an equation in an align block](https://tex.stackexchange.com/questions/78929/underlining-an-equation-in-an-align-block)||
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/YCBCk.png" width=400> |[equation vertical alignment in tabular, baseline is too low](https://tex.stackexchange.com/questions/655736/equation-vertical-alignment-in-tabular-baseline-is-too-low)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
