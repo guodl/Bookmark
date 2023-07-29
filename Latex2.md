@@ -17,7 +17,8 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://pics.latexstudio.net/uploads/20220916/44a514ba2f867d492c03edab6f1923e2.png?imageView2/2/w/800/" width=400> |[github/pelegs/maths_book](https://github.com/pelegs/maths_book)<br>[写给理科生的数学书-排版用心](https://www.latexstudio.net/index/details/index/mid/2919.html)
 | <img src="https://i.stack.imgur.com/QsNAw.jpg" width=400> |[Boxes within a Dotted Box](https://tex.stackexchange.com/questions/252612/boxes-within-a-dotted-box)
 | <img src="https://i.stack.imgur.com/VM7ao.png" width=400> |[How to draw a tangent line to the following curve?](https://tex.stackexchange.com/questions/401225/how-to-draw-a-tangent-line-to-the-following-curve)
-| <img src="" width=400> |[Link]()
+| <img src="https://pics.latexstudio.net/uploads/20200421/5e9e384f04050/latexc__images/15.png?imageView2/2/w/800/" width=400> |[向老师的 tikz 绘图笔记一(LatexStudio)](https://www.latexstudio.net/index/details/index/mid/456) <br> [向老师的GitHub](https://yuxtech.github.io/2020/04/05/tikz/)
+
 <!----
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
