@@ -3,6 +3,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 |Graph/Diagram | Description | 
 |---------------| --------------------|
+| <img src="https://i.stack.imgur.com/x16Ff.png" width=400> |[Latex: How to write single cross arrow in a 2x2 matrix?](https://tex.stackexchange.com/questions/580542/latex-how-to-write-single-cross-arrow-in-a-2x2-matrix)
 | <img src="https://i.stack.imgur.com/seICk.jpg" width=400> |[How to write crossed-out math in LaTeX？](https://tex.stackexchange.com/questions/75525/how-to-write-crossed-out-math-in-latex)
 | <img src="https://nilesjohnson.net/tikz-demo/tikz-demo-image-03.png" width=400> |[Some TikZ Examples/Demos](https://nilesjohnson.net/tikz-demo.html)
 | <img src="" width=400> |[How can I obtain total number of points?](https://tex.stackexchange.com/questions/142676/how-can-i-obtain-total-number-of-points)
