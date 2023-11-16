@@ -3,6 +3,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 |Graph/Diagram | Description | 
 |---------------| --------------------|
+| <img src="https://i.stack.imgur.com/seICk.jpg" width=400> |[How to write crossed-out math in LaTeX？](https://tex.stackexchange.com/questions/75525/how-to-write-crossed-out-math-in-latex)
 | <img src="https://nilesjohnson.net/tikz-demo/tikz-demo-image-03.png" width=400> |[Some TikZ Examples/Demos](https://nilesjohnson.net/tikz-demo.html)
 | <img src="" width=400> |[How can I obtain total number of points?](https://tex.stackexchange.com/questions/142676/how-can-i-obtain-total-number-of-points)
 | <img src="" width=400> |[Total number of points](https://tex.stackexchange.com/questions/347469/total-number-of-points)
@@ -26,7 +27,6 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/2nTOd.png" width=400> |[Is there a way to make equations aligned in a table with 'tabularray' package?](https://tex.stackexchange.com/questions/641175/is-there-a-way-to-make-equations-aligned-in-a-table-with-tabularray-package)
 
 <!----
-| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
