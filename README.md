@@ -1,5 +1,6 @@
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
+[Math](Math.cmd)
 
 # Latex Graph Diagram Collection
 Collection of Latex mathematics diagrams, tcolorbox, and so on.
