@@ -8,9 +8,6 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 |Graph/Diagram | Description | 
 |---------------| --------------------|
-
-|Graph/Diagram | Description | 
-|---------------| --------------------|
 | <img src="https://nilesjohnson.net/tikz-demo/tikz-demo-image-03.png" width=400> |[Some TikZ Examples/Demos](https://nilesjohnson.net/tikz-demo.html)
 | <img src="" width=400> |[How can I obtain total number of points?](https://tex.stackexchange.com/questions/142676/how-can-i-obtain-total-number-of-points)
 | <img src="" width=400> |[Total number of points](https://tex.stackexchange.com/questions/347469/total-number-of-points)
