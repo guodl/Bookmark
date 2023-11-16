@@ -1,11 +1,6 @@
 # Latex Graph Diagram Collection
 Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
-[comment]: <> (| <img src="" width=400> |[Link])
-
-
-[comment]: <> (| <img src="" width=400> |[Link])
-
 |Graph/Diagram | Description | 
 |---------------| --------------------|
 | <img src="https://nilesjohnson.net/tikz-demo/tikz-demo-image-03.png" width=400> |[Some TikZ Examples/Demos](https://nilesjohnson.net/tikz-demo.html)
