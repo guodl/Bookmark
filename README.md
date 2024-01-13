@@ -268,7 +268,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/zaGCb.png" width=400> |[Underlining an equation in an align block](https://tex.stackexchange.com/questions/78929/underlining-an-equation-in-an-align-block)||
 | <img src="https://i.stack.imgur.com/YCBCk.png" width=400> |[equation vertical alignment in tabular, baseline is too low](https://tex.stackexchange.com/questions/655736/equation-vertical-alignment-in-tabular-baseline-is-too-low)
 | <img src="https://i.stack.imgur.com/KbPyg.png" width=400> |Tikz flow chart coloring](https://tex.stackexchange.com/questions/312641/tikz-flow-chart-coloring)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.stack.imgur.com/VXZFl.png" width=400> |[Modifying `*` and `o` style tikz arrows so that they are centered at the end of line](https://tex.stackexchange.com/questions/11871/modifying-and-o-style-tikz-arrows-so-that-they-are-centered-at-the-end-of)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 <!----
