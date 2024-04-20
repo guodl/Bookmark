@@ -27,9 +27,9 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/jTJue.png" width=400> |[How can I use \[\] in tabularray package?](https://tex.stackexchange.com/questions/682136/how-can-i-use-in-tabularray-package)
 | <img src="https://i.stack.imgur.com/Fpcn0.png" width=400> |[Define a style in tabularray](https://tex.stackexchange.com/questions/634497/define-a-style-in-tabularray)
 | <img src="https://i.stack.imgur.com/2nTOd.png" width=400> |[Is there a way to make equations aligned in a table with 'tabularray' package?](https://tex.stackexchange.com/questions/641175/is-there-a-way-to-make-equations-aligned-in-a-table-with-tabularray-package)
+| <img src="" width=400> |[Open Source - Math Book in Latex by Peleg Bar Sapir](https://github.com/pelegs/maths_book/blob/main/bookmain.pdf)
 
 <!----
-| <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
