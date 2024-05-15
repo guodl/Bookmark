@@ -9,8 +9,6 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 
 |Graph/Diagram | Description | 
 |---------------| --------------------|
-| <img src="https://pics.latexstudio.net/uploads/20220315/623088fb95cf4/latexc__images/1.png" width=400> <img src="https://writelatex.s3.amazonaws.com/published_ver/15904.jpeg?X-Amz-Expires=14400&X-Amz-Date=20220312T131435Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAWJBOALPNFPV7PVH5/20220312/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5f8123b7a6fe0693814c8ab76056ce72ff5ae9122c8becdcc3dd26e5bc65a635" width=400> |[Simple Stylish Box Design](https://es.overleaf.com/latex/examples/simple-stylish-box-design/stzmmcshxdng)
-| <img src="https://i.stack.imgur.com/dVzT4.png" width="500"> | [Drawing annotated cuboids](https://tex.stackexchange.com/questions/12020/what-is-the-easiest-way-to-draw-a-3d-cube-with-tikz/12039#12039)|
 | <img src="https://i.stack.imgur.com/GHZky.png" width=400> |[Link](https://tex.stackexchange.com/questions/402100/how-to-draw-honeycomb-line-of-hexagon)
 | <img src="https://i.stack.imgur.com/4vscl.png" width=400> |[Link](https://tex.stackexchange.com/questions/174536/drawing-solids-with-latex)
 | <img src="https://i.stack.imgur.com/6i0wj.png" width="500"> | [Arrow link between 2 lines](https://tex.stackexchange.com/questions/458864/how-to-add-a-small-rounded-rectangle-around-a-word-inline)|
@@ -18,6 +16,8 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.stack.imgur.com/3Srgu.jpg" width=400> |[Link](https://tex.stackexchange.com/questions/248889/package-for-framed-boxes)
 | <img src="https://i.stack.imgur.com/Z9R7X.png" width=200>|[Tikz Node - New](https://tex.stackexchange.com/questions/230076/idea-lamp-box-in-beamer)| 
 | <img src="https://i.stack.imgur.com/560ic.png" width=400>|[Clock - 45 min](https://tex.stackexchange.com/questions/49427/reproducing-an-analog-clock-similar-to-the-one-provided-by-the-ifsym-package)|
+| <img src="https://pics.latexstudio.net/uploads/20220315/623088fb95cf4/latexc__images/1.png" width=400> <img src="https://writelatex.s3.amazonaws.com/published_ver/15904.jpeg?X-Amz-Expires=14400&X-Amz-Date=20220312T131435Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAWJBOALPNFPV7PVH5/20220312/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5f8123b7a6fe0693814c8ab76056ce72ff5ae9122c8becdcc3dd26e5bc65a635" width=400> |[Simple Stylish Box Design](https://es.overleaf.com/latex/examples/simple-stylish-box-design/stzmmcshxdng)
+| <img src="https://i.stack.imgur.com/dVzT4.png" width="500"> | [Drawing annotated cuboids](https://tex.stackexchange.com/questions/12020/what-is-the-easiest-way-to-draw-a-3d-cube-with-tikz/12039#12039)|
 | <img src="https://i.stack.imgur.com/7aMEx.png" width=400> | [fontawesome](https://tex.stackexchange.com/questions/438627/icon-and-subject-of-lesson)<br />|
 | <img src="https://i.stack.imgur.com/TJJco.png" width=400> |[fontawesome](https://tex.stackexchange.com/questions/285524/europass-resume-icons)|
 | <img src="https://i.stack.imgur.com/S1HX8.png" width=400> |[Link](https://tex.stackexchange.com/questions/493933/tcolor-box-dotted-box?rq=1)|
