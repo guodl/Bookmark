@@ -13,5 +13,5 @@
 |[awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing)<br><img  src="https://github.com/xinychen/awesome-latex-drawing/blob/master/BayesNet/BATF.png" width="400" height="400">|A collection of 20+ academic drawing examples for using LaTeX, including Bayesian networks, function plotting, graphical models, tensor structure, and technical frameworks.|
 |||
 |||
-|<img src="https://raw.githubusercontent.com/UvA-FNWI/LaTeX/gh-pages/_posts/images/Nodes4.png" width="400"|[Tutorial-Tikz](https://uva-fnwi.github.io/LaTeX/extra1/Tikz/)|
+|<img src="https://raw.githubusercontent.com/UvA-FNWI/LaTeX/gh-pages/_posts/images/Nodes4.png" width="400">|[Tutorial-Latex Course - Tikz](https://uva-fnwi.github.io/LaTeX/extra1/Tikz/)|
 
