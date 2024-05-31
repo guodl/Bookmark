@@ -15,8 +15,8 @@
 |||
 |||
 |<img src="https://raw.githubusercontent.com/UvA-FNWI/LaTeX/gh-pages/_posts/images/Nodes4.png" width="400">|[Tutorial-Latex Course - Tikz](https://uva-fnwi.github.io/LaTeX/extra1/Tikz/)
-|<img src="https://nilesjohnson.net/tikz-demo/tikz-demo-image-02.png">|[Some TikZ Examples/Demos](https://nilesjohnson.net/tikz-demo.html)
-|<img src="https://www.sqlpac.com/en/documents/images/latex-pgfplots-tikz-filling-areas-under-and-between-curves-01.png">|[Latex, PgfPlots - Filling areas under and between curves](https://www.sqlpac.com/en/documents/latex-pgfplots-tikz-filling-areas-under-and-between-curves.html)
+|<img src="https://nilesjohnson.net/tikz-demo/tikz-demo-image-02.png">|[Tutorial - Some TikZ Examples/Demos](https://nilesjohnson.net/tikz-demo.html)
+|<img src="https://www.sqlpac.com/en/documents/images/latex-pgfplots-tikz-filling-areas-under-and-between-curves-01.png">|[Tutorial - Latex, PgfPlots - Filling areas under and between curves](https://www.sqlpac.com/en/documents/latex-pgfplots-tikz-filling-areas-under-and-between-curves.html)
 |<img src=""|[Link]()
 |<img src=""|[Link]()
 |<img src=""|[Link]()
