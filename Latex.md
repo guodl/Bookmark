@@ -28,7 +28,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.sstatic.net/Fpcn0.png" width=400> |[Define a style in tabularray](https://tex.stackexchange.com/questions/634497/define-a-style-in-tabularray)
 | <img src="https://i.sstatic.net/2nTOd.png" width=400> |[Is there a way to make equations aligned in a table with 'tabularray' package?](https://tex.stackexchange.com/questions/641175/is-there-a-way-to-make-equations-aligned-in-a-table-with-tabularray-package)
 | <img src="" width=400> |[Open Source - Math Book in Latex by Peleg Bar Sapir](https://github.com/pelegs/maths_book/blob/main/bookmain.pdf)
-
+| <img src="https://i.sstatic.net/bOnKp.jpg" width=400> |[\draw slope triangle with pgfplots using relative coordinates](https://tex.stackexchange.com/questions/611296/draw-slope-triangle-with-pgfplots-using-relative-coordinates)
 <!----
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
