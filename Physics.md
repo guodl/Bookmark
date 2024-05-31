@@ -13,9 +13,8 @@ Collection of Latex Physics diagrams and so on.
 | <img src="" width=400> |[Link]()|
 | <img src="" width=400> |[Link]()|
 | <img src="" width=400> |[Link]()|
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
-| <img src="" width=400> |[Link]()
+| <img src="" width=400> |[Link]()|
+| <img src="" width=400> |[Link]()|
+| <img src="" width=400> |[Link]()|
+| <img src="" width=400> |[Link]()|
+| <img src="" width=400> |[Link]()|
