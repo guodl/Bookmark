@@ -11,6 +11,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 |---------------| --------------------|
 | <img src="https://i.sstatic.net/GHZky.png" width=200> |[How to draw honeycomb (line of hexagon)?](https://tex.stackexchange.com/questions/402100/how-to-draw-honeycomb-line-of-hexagon)
 | <img src="https://i.sstatic.net/4vscl.png" width=400> |[Link](https://tex.stackexchange.com/questions/174536/drawing-solids-with-latex)
+| <img src="https://latex.org/forum/download/file.php?id=11079&sid=2eaadc9a638d43a516d282f4f16342d5" | [Graphics, Figures & Tables ⇒ Number Line Help](https://latex.org/forum/viewtopic.php?t=33251)
 | <img src="https://i.sstatic.net/S4sUV.png" width=400> |[How to Create trigonometric curves and dashed lines for circle and line?]([https://tex.stackexchange.com/questions/174536/drawing-solids-with-latex](https://tex.stackexchange.com/questions/671352/how-to-create-trigonometric-curves-and-dashed-lines-for-circle-and-line))
 | <img src="https://i.sstatic.net/6i0wj.png" width="500"> | [Arrow link between 2 lines](https://tex.stackexchange.com/questions/458864/how-to-add-a-small-rounded-rectangle-around-a-word-inline)|
 |<img src="https://i.sstatic.net/FBBx3.png" width="500"|[Rounded box around text](https://tex.stackexchange.com/questions/467833/adding-a-small-colored-rounded-box-around-inline-text)|
