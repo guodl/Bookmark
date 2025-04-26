@@ -76,8 +76,8 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.sstatic.net/MSAqw.png" width=400> |[Link](https://tex.stackexchange.com/questions/254324/how-to-creat-color-boxes-as-the-picture)|
 | <img src="https://i.sstatic.net/m4sHf.png" width=400> |[Link](https://tex.stackexchange.com/questions/369430/theorems-and-definitions-boxes-numbering-should-be-chapter-wise)|
 | <img src="https://i.sstatic.net/6lDQ0.png" width=400> |[Link](https://tex.stackexchange.com/questions/289558/enumerate-in-tcolorbox-weird-insets)|
-| <img src="" width=400> |[Link](https://tex.stackexchange.com/questions/256791/customized-color-box
-)
+| <img src="" width=400> |[Link](https://tex.stackexchange.com/questions/256791/customized-color-box)
+| <img src="https://latex.org/forum/download/file.php?id=11079&sid=2eaadc9a638d43a516d282f4f16342d5"|[Graphics, Figures & Tables](https://latex.org/forum/viewtopic.php?t=33251)
 | <img src="https://i.sstatic.net/6NQHY.jpg" width=400> |[Link]()
 | <img src="https://i.sstatic.net/xR3HM.png" width=400> |[Link](https://tex.stackexchange.com/questions/200019/how-to-draw-the-following-box-using-tikz)
 | <img src="https://i.sstatic.net/ClcIc.png" width=400> |[Link](https://tex.stackexchange.com/questions/329636/how-to-share-counters-between-tcblistings)
