@@ -30,7 +30,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="" width=400> |[Open Source - Math Book in Latex by Peleg Bar Sapir](https://github.com/pelegs/maths_book/blob/main/bookmain.pdf)
 | <img src="https://i.sstatic.net/bOnKp.jpg" width=400> |[\draw slope triangle with pgfplots using relative coordinates](https://tex.stackexchange.com/questions/611296/draw-slope-triangle-with-pgfplots-using-relative-coordinates)
 <!----
-| <img src="" width=400> |[Link]()
+| <img src="https://i.sstatic.net/Vomf8.png" width=400> |[Formatting using tcolorbox](https://tex.stackexchange.com/questions/688718/formatting-using-tcolorbox)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
