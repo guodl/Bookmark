@@ -271,7 +271,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.sstatic.net/YCBCk.png" width=400> |[equation vertical alignment in tabular, baseline is too low](https://tex.stackexchange.com/questions/655736/equation-vertical-alignment-in-tabular-baseline-is-too-low)
 | <img src="https://i.sstatic.net/KbPyg.png" width=400> |Tikz flow chart coloring](https://tex.stackexchange.com/questions/312641/tikz-flow-chart-coloring)
 | <img src="https://i.sstatic.net/VXZFl.png" width=400> |[Modifying `*` and `o` style tikz arrows so that they are centered at the end of line](https://tex.stackexchange.com/questions/11871/modifying-and-o-style-tikz-arrows-so-that-they-are-centered-at-the-end-of)
-| <img src="" width=400> |[Link]()
+| <img src="https://i.sstatic.net/6BXAk.png" width=400> |[Dimension too large for tkzMarkAngle](https://tex.stackexchange.com/questions/161484/dimension-too-large-for-tkzmarkangle)
 | <img src="" width=400> |[Link]()
 <!----
 | <img src="" width=400> |[Link]()
