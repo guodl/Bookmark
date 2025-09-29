@@ -31,7 +31,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://i.sstatic.net/bOnKp.jpg" width=400> |[\draw slope triangle with pgfplots using relative coordinates](https://tex.stackexchange.com/questions/611296/draw-slope-triangle-with-pgfplots-using-relative-coordinates)
 | <img src="https://i.sstatic.net/Vomf8.png" width=400> |[Formatting using tcolorbox](https://tex.stackexchange.com/questions/688718/formatting-using-tcolorbox)
 <!----
-| <img src="" width=400> |[Link]()
+| <img src="https://i.sstatic.net/lA9Wa.png" width=400> |[Tikz draw an accurate angle in a circle](https://tex.stackexchange.com/questions/246910/tikz-draw-an-accurate-angle-in-a-circle)
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
 | <img src="" width=400> |[Link]()
