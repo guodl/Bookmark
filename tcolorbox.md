@@ -11,7 +11,7 @@ Collection of tcolorbox.
 | <img src="https://github.com/TBlauwe/card/raw/master/preview_1.png" width=400> |[Small latex package to write colored box with icons (using tcolorbox and fontawesome)](https://github.com/TBlauwe/card/blob/master/readme.md)
 | <img src="" width=400> |[tcolorbox parameter on condition](https://tex.stackexchange.com/questions/618173/tcolorbox-parameter-on-condition)|
 | <img src="https://i.sstatic.net/wgtHe.png" width=400> |[Macro as option of tcolorbox](https://tex.stackexchange.com/questions/384938/macro-as-option-of-tcolorbox)|
-| <img src="" width=400> |[Link]()|
+| <img src="https://i.sstatic.net/kaO4X.png" width=400> |[Adding a large brace next to a body of text](https://tex.stackexchange.com/questions/1559/adding-a-large-brace-next-to-a-body-of-text/1570#1570)|
 | <img src="" width=400> |[Link]()|
 | <img src="" width=400> |[Link]()|
 <!----
