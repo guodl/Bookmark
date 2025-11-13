@@ -215,7 +215,7 @@ Collection of Latex mathematics diagrams, tcolorbox, and so on.
 | <img src="https://www.brandt.id.au/handwritingscripts.jpg" width=400> |[Handwriting](https://www.brandt.id.au/post/diy-handwriting-worksheets-with-latex/)
 | <img src="https://i.sstatic.net/Zzf8T.png" width=400> |[Link](https://tex.stackexchange.com/questions/363866/place-two-groups-side-by-side)
 | <img src="https://i.sstatic.net/7z2Rz.png" width=400> |[Link](https://tex.stackexchange.com/questions/434055/hide-show-solution-for-problems)
-| <img src="https://i.sstatic.net/DGU3f.png" width=400> <img src="https://i.sstatic.net/A5dnd.png" width=400>|[Link](https://tex.stackexchange.com/questions/445579/how-to-put-a-semi-circle-on-integral-sign-in-mathmode)
+| <img src="https://i.sstatic.net/DGU3f.png" width=50> <img src="https://i.sstatic.net/A5dnd.png" width=400>|[how to put a semi circle on integral sign in mathmode?](https://tex.stackexchange.com/questions/445579/how-to-put-a-semi-circle-on-integral-sign-in-mathmode)
 | <img src="https://i.sstatic.net/eV7bV.png" width=400> |[Link](https://tex.stackexchange.com/questions/48002/hand-written-fonts-in-latex-xetex-luatex)
 | <img src="https://i.sstatic.net/H024V.png" width=400> |[Link](http://www.stackprinter.com/export?service=tex.stackexchange&question=86150&printer=false&linktohome=true)
 | <img src="https://i.sstatic.net/uMxCW.png" width=400> |[Mini table of contents inside TikZ node on chapter start page](https://tex.stackexchange.com/questions/78835/mini-table-of-contents-inside-tikz-node-on-chapter-start-page)
